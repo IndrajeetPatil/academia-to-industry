@@ -9,7 +9,9 @@
       "Bash(quarto render:*)",
       "Bash(sed:*)",
       "Bash(grep:*)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(rg:*)",
+      "WebFetch(domain:quarto.org)"
     ],
     "deny": []
   }
