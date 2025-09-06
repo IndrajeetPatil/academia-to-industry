@@ -74,17 +74,17 @@ Industry requires different approaches and communication styles
 :::
 
 ::: {.column width='40%'}
-<div style="background-color: #F0F8FF; padding: 20px; border-radius: 15px; text-align: center;">
-**Process**
-<br><br>
-**Self-Reflection**  
-↓  
-**Identify Patterns**  
-↓  
-**Match to Roles**  
-↓  
-**Career Path**
-</div>
+```{mermaid}
+flowchart TD
+    A[Self-Reflection] --> B[Identify Patterns]
+    B --> C[Match to Roles]
+    C --> D[Career Path]
+    
+    style A fill:#e1f5fe,stroke:#01579b,stroke-width:2px,color:#000000
+    style B fill:#f3e5f5,stroke:#4a148c,stroke-width:2px,color:#000000
+    style C fill:#e8f5e8,stroke:#1b5e20,stroke-width:2px,color:#000000
+    style D fill:#fff3e0,stroke:#e65100,stroke-width:2px,color:#000000
+```
 :::
 ::::
 
@@ -349,7 +349,7 @@ Industry requires different approaches and communication styles
 ## Crafting Your Story {.smaller}
 
 :::{style="background-color: #F0F8FF; padding: 15px; border-radius: 20px; text-align: center;"}
-<strong>📖 Four-Part Structure</strong>
+**📖 Four-Part Structure**
 :::
 
 :::: {.columns}
@@ -367,7 +367,7 @@ Industry requires different approaches and communication styles
 :::
 ::::
 
-:::{.callout-important title="⚠️ Critical"}
+:::{.callout-important title="⚠️ Critical" icon="false"}
 Focus on attraction TO industry, not escape FROM academia
 :::
 
@@ -471,11 +471,11 @@ Complaining about academic politics
 ## Timeline Expectations {.smaller}
 
 :::{style="text-align: center; background-color: #E6F3FF; padding: 10px; border-radius: 15px;"}
-<strong>⏰ Typical Timeline: 6-12 months</strong>
+**Typical Timeline: 6-12 months**
 :::
 
-:::{style="background-color: #F0F8FF; padding: 15px; border-radius: 15px;"}
-<strong>📅 Timeline</strong>
+:::{style="background-color: #F0FFF0; padding: 15px; border-radius: 15px;"}
+**📅 Timeline**
 
 **Months 1-3:** Research & Skill Development  
 **Months 4-6:** Networking & Applications  
@@ -489,7 +489,7 @@ Start early • Be patient • Stay persistent
 
 ---
 
-## Managing Transition {.smaller}
+## Managing Transition
 
 :::: {.columns}
 ::: {.column width='33%'}
@@ -558,7 +558,7 @@ Start early • Be patient • Stay persistent
 
 ---
 
-## Success Principles {.smaller}
+## Success Principles 
 
 :::{.callout-tip title="Key Principles"}
 
@@ -605,5 +605,14 @@ How can we help each other?
 :::
 ::::
 
+# Find me at...
+
+{{< fa brands linkedin >}} [LikedIn](https://www.linkedin.com/in/indrajeet-patil-397865174/){target="_blank"}
+
+{{< fa brands github >}} [GitHub](http://github.com/IndrajeetPatil){target="_blank"}
+
+{{< fa solid link >}} [Website](https://sites.google.com/site/indrajeetspatilmorality/){target="_blank"}
+
+{{< fa solid envelope >}} [E-mail](mailto:patilindrajeet.science@gmail.com){target="_blank"}
 
 # Thank You!
