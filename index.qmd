@@ -200,37 +200,16 @@ Industry requires different approaches and communication styles
 
 ## Role-Specific Translations {.smaller}
 
-:::: {.columns}
-::: {.column width='33%'}
-:::{.callout-note title="📊 Data Scientist" icon=false}
-**Research methodology** →  
-Experimental design
-
-**Statistical analysis** →  
-A/B testing & metrics
+::: {style="font-size: 1em;"}
+| **Role** | **Academic Skill → Industry Translation** |
+|----------|------------------------------------------|
+| **Data Scientist** | Research methodology → Experimental design<br>Statistical analysis → A/B testing & metrics |
+| **Product Manager** | Grant writing → Business cases<br>Research coordination → Cross-functional leadership |
+| **Consultant** | Teaching → Client communication<br>Research findings → Strategic recommendations |
+| **Research Scientist** | Academic research → Industry R&D projects<br>Publication writing → Technical documentation |
+| **Business Analyst** | Literature review → Market research<br>Data interpretation → Business insights |
+| **Technical Writer** | Academic writing → User documentation<br>Complex concepts → Clear explanations |
 :::
-:::
-
-::: {.column width='33%'}
-:::{.callout-note title="🚀 Product Manager" icon=false}
-**Grant writing** →  
-Business cases
-
-**Research coordination** →  
-Cross-functional leadership
-:::
-:::
-
-::: {.column width='33%'}
-:::{.callout-note title="💡 Consultant" icon=false}
-**Teaching** →  
-Client communication
-
-**Research findings** →  
-Strategic recommendations
-:::
-:::
-::::
 
 ---
 
