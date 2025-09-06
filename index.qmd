@@ -206,9 +206,58 @@ Industry requires different approaches and communication styles
 | **Data Scientist** | Research methodology → Experimental design<br>Statistical analysis → A/B testing & metrics |
 | **Product Manager** | Grant writing → Business cases<br>Research coordination → Cross-functional leadership |
 | **Consultant** | Teaching → Client communication<br>Research findings → Strategic recommendations |
-| **Research Scientist** | Academic research → Industry R&D projects<br>Publication writing → Technical documentation |
+| **R&D Engineer** | Academic research → Industry R&D projects<br>Publication writing → Technical documentation |
 | **Business Analyst** | Literature review → Market research<br>Data interpretation → Business insights |
 | **Technical Writer** | Academic writing → User documentation<br>Complex concepts → Clear explanations |
+:::
+
+---
+
+## Critical Upskilling Areas {.smaller}
+
+::: {style="font-size: 0.9em;"}
+:::: {.columns}
+::: {.column width='50%'}
+:::{.callout-important title="Industry Tools & Platforms"}
+
+**Cloud Computing** (Essential for most roles)  
+
+- AWS, Azure, Google Cloud Platform
+- Docker containers & Kubernetes
+
+**Version Control & Collaboration**  
+
+- Git, GitHub/GitLab workflows
+- Agile development practices
+
+**Industry-Standard Software**  
+
+- Different languages/frameworks than academia
+- Production-ready coding practices
+:::
+:::
+
+::: {.column width='50%'}
+:::{.callout-tip title="AI-Enhanced Productivity"}
+
+**Leverage LLMs for Efficiency**  
+
+- Code generation & debugging assistance
+- Documentation & technical writing
+- Learning new frameworks faster
+
+**Modern Workflows**
+
+- CI/CD pipelines for deployment
+- Cloud-based development environments
+- Automated testing & monitoring
+:::
+:::
+::::
+
+:::{style="background-color: #FFF8DC; padding: 15px; border-radius: 15px; text-align: center; margin-top: 15px;"}
+**💡 Pro Tip**: Start learning industry tools **before** job applications. Hands-on projects demonstrate practical skills to employers.
+:::
 :::
 
 ---
