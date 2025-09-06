@@ -1,0 +1,88 @@
+.footer > p {
+    font-size: 15px;
+}
+
+.reveal a {
+    color: #9753B8;
+}
+
+.reveal a:hover {
+    color: #7A4295;
+}
+
+.center h1,
+.center h2 {
+    text-align: center;
+}
+
+.fragment {
+    margin-bottom: 0.5em;
+}
+
+.incremental li {
+    margin-bottom: 0.3em;
+}
+
+table {
+    font-size: 0.9em;
+    margin: 1em auto;
+}
+
+th, td {
+    padding: 0.4em 0.8em;
+    text-align: left;
+}
+
+/* RevealJS column styling */
+.reveal .columns {
+    display: flex !important;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.reveal .column {
+    flex: 1;
+    padding: 0 0.5em;
+    box-sizing: border-box;
+}
+
+/* Legacy column support */
+.columns {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.column {
+    flex: 1;
+    padding: 0 0.5em;
+    box-sizing: border-box;
+}
+
+/* Ensure content fits better */
+.reveal .slides section {
+    overflow: hidden;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+    margin-bottom: 0.5em;
+}
+
+.callout {
+    margin: 0.5em 0;
+}
+
+.callout-body {
+    padding: 0.5em;
+}
+
+/* Smaller font for dense content */
+.smaller {
+    font-size: 0.85em;
+}
+
+.smaller .callout-body {
+    font-size: 0.9em;
+}
