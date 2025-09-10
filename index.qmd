@@ -599,14 +599,14 @@ Start early • Be patient • Stay persistent
 
 ## Success Principles 
 
-:::{.callout-tip title="Key Principles"}
+:::{.callout-tip icon=false}
 
-1. **Start with self-awareness**
-2. **Translate, don't transfer**
-3. **Network authentically**
-4. **Apply strategically**
-5. **Embrace learning**
-6. **Stay confident**
+- **Start with self-awareness**
+- **Adapt your skills, don't just list them**
+- **Network authentically**
+- **Apply strategically**
+- **Embrace learning**
+- **Stay confident**
 :::
 
 :::{style="background-color: #FFFACD; padding: 15px; border-radius: 20px; text-align: center; margin-top: 15px;"}
