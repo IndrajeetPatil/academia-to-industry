@@ -160,7 +160,7 @@ flowchart TD
 :::{style="background-color: #F8F9FA; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;"}
 **🔄 Decision Framework**
 
-**💡 Idea** → **💰 Revenue?** → **⚡ Feasible?** → **📈 Value?** → **✅ Proceed** or **❌ Pivot**
+[**💡 Idea** → **💰 Revenue?** → **⚡ Feasible?** → **📈 Value?** → **✅ Proceed** or **❌ Pivot**]{style="font-size: 0.8em;"}
 :::
 
 ---
@@ -222,8 +222,8 @@ flowchart TD
 
 **Cloud Computing** (Essential for most roles)  
 
-- AWS, Azure, Google Cloud Platform
-- Docker containers & Kubernetes
+- Choose one: **AWS**, **Azure**, or **GCP**
+- Containerization
 
 **Version Control & Collaboration**  
 
@@ -246,11 +246,6 @@ flowchart TD
 - Documentation & technical writing
 - Learning new frameworks faster
 
-**Modern Workflows**
-
-- CI/CD pipelines for deployment
-- Cloud-based development environments
-- Automated testing & monitoring
 :::
 :::
 ::::
@@ -342,6 +337,50 @@ flowchart TD
 </div>
 :::
 ::::
+:::
+
+---
+
+## LinkedIn Outreach Examples {.smaller}
+
+:::{style="background-color: #E6F3FF; padding: 15px; border-radius: 15px; text-align: center; margin-bottom: 20px;"}
+**💡 How to bring value to your networking conversations**
+:::
+
+::: {.panel-tabset}
+
+## 🤝 Informational Interview
+
+:::{.callout-tip title="✅ Good Example" icon=false}
+*"Hi [Name], I came across your profile while researching data science roles at [Company]. I'm transitioning from academic research in [field] and was impressed by your work on [specific project/post]. I'd love to learn about your experience moving from research to industry. Would you be open to a brief 15-minute call? I'm happy to share insights from my research background that might be relevant to your work."*
+
+**Why it works:** Personal, specific, time-limited, offers value
+:::
+
+## 💡 Value-First Approach
+
+:::{.callout-tip title="✅ Good Example" icon=false}
+*"Hi [Name], I noticed your recent post about challenges in [specific area]. In my PhD research, I tackled a similar problem using [method/approach]. I published findings that might be relevant - would you find it useful if I shared the key insights? Always happy to connect with fellow [industry] professionals."*
+
+**Why it works:** Responds to their content, offers specific expertise, no immediate ask
+:::
+
+## 🔄 Follow-up Message
+
+:::{.callout-note title="✅ Good Example" icon=false}
+*"Thanks for the insightful conversation! As promised, here's the research paper on [topic] we discussed. I found your point about [specific detail] particularly valuable. I'll keep you posted on my transition progress."*
+
+**Why it works:** Shows you listened, delivers promised value, maintains connection
+:::
+
+## ❌ What NOT to Do
+
+:::{.callout-caution title="❌ Avoid: Generic Requests" icon=false}
+*"Hi, I'm looking for job opportunities in data science. Can we connect?"*
+
+**Problems:** No personalization, immediate ask, no value offered, shows no research about them
+:::
+
 :::
 
 ---
