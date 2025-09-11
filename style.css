@@ -87,7 +87,15 @@ th, td {
     font-size: 0.9em;
 }
 
-/* Left-align title slides */
-.reveal .slides section > h1 {
+/* Left-align section title slides (override center class) */
+.reveal .slides section.title-slide.level1 h1 {
     text-align: left !important;
+}
+
+/* Keep the main title slide centered */
+.reveal .slides section#title-slide h1.title,
+.reveal .slides section#title-slide .subtitle,
+.reveal .slides section#title-slide .author,
+.reveal .slides section#title-slide .date {
+    text-align: center !important;
 }

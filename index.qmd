@@ -452,7 +452,7 @@ Focus on attraction TO industry, not escape FROM academia
 ::: {.column width='50%'}
 :::{.callout-caution title="🗑️ Remove" icon=false}
 
-- Publication lists
+- Publication lists^[Retain key ones for R&D positions]
 - Conference presentations
 - Teaching responsibilities
 - Academic honors
@@ -471,7 +471,7 @@ Focus on attraction TO industry, not escape FROM academia
 ::::
 
 :::{style="background-color: #FFF8DC; padding: 10px; border-radius: 15px; text-align: center; margin-top: 15px;"}
-💡 **Pro Tip**: Apply if you meet 60-70% of requirements!
+💡 **Pro Tip**: Apply even if you meet 60-70% of requirements!
 :::
 
 ## Interview Types {.smaller}
