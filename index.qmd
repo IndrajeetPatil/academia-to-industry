@@ -716,6 +716,8 @@ How can we help each other?
 
 Good luck! 🤞
 
----
+<br><br><br><br>
 
+:::{style="font-size: 0.6em; color: #999; text-align: center;"}
 Source code available [here](https://github.com/IndrajeetPatil/academia-to-industry){target='_blank'}.
+:::
