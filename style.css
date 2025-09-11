@@ -86,3 +86,8 @@ th, td {
 .smaller .callout-body {
     font-size: 0.9em;
 }
+
+/* Left-align title slides */
+.reveal .slides section > h1 {
+    text-align: left !important;
+}

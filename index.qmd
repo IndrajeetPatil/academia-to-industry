@@ -15,9 +15,11 @@ format:
     preview-links: auto
     footer: "Source code available [here](https://github.com/IndrajeetPatil/academia-to-industry){target='_blank'}."
     include-in-header: meta-tags.html
+    link-external-newwindow: true
 keywords: ["academia", "industry", "career transition", "professional development"]
 description: "A comprehensive guide for transitioning from academic career to industry"
 licence: "CC BY 4.0"
+dir: "ltr"
 ---
 
 ## Why This Guide?
@@ -44,7 +46,6 @@ Industry requires different approaches and communication styles
 :::
 ::::
 
----
 
 ## What We'll Cover {.smaller}
 
@@ -55,7 +56,9 @@ Industry requires different approaches and communication styles
 
 **Goal:** *Successfully transition from academia to industry with confidence and clarity*
 
----
+
+# Self-Assessment
+
 
 ## Know Your "Why" {.smaller}
 
@@ -90,6 +93,54 @@ flowchart TD
 
 ---
 
+## Example Pathways {.smaller}
+
+:::: {.columns}
+::: {.column width='33%'}
+:::{style="background-color: #E8F5E8; padding: 15px; border-radius: 10px; text-align: center; font-size: 0.8em;"}
+**🔬 The Analyst**
+
+**Reflection:** *"I love diving deep into data and finding patterns"*
+
+**Patterns:** Research methodology, statistical analysis, evidence-based thinking
+
+**Roles:** Data analysis, research, insights generation
+
+**Path:** Data Scientist
+:::
+:::
+
+::: {.column width='33%'}
+:::{style="background-color: #F0F8FF; padding: 15px; border-radius: 10px; text-align: center; font-size: 0.8em;"}
+**👥 The Collaborator**
+
+**Reflection:** *"I get energized by teaching and working with teams"*
+
+**Patterns:** Knowledge sharing, mentoring, cross-functional coordination
+
+**Roles:** Communication, leadership, stakeholder management
+
+**Path:** Product Manager
+:::
+:::
+
+::: {.column width='33%'}
+:::{style="background-color: #FFE4E1; padding: 15px; border-radius: 10px; text-align: center; font-size: 0.8em;"}
+**🚀 The Builder**
+
+**Reflection:** *"I love creating solutions and seeing them implemented"*
+
+**Patterns:** Innovation, hands-on building, practical problem-solving
+
+**Roles:** Technical development, solution architecture
+
+**Path:** R&D Engineer
+:::
+:::
+::::
+
+# Skill Translation
+
 ## Your Transferable Skills {.smaller}
 
 | **Academic Skill** | **Industry Translation** |
@@ -102,8 +153,6 @@ flowchart TD
 | Teaching | Knowledge transfer |
 | Project management | Initiative leadership |
 
----
-
 ## Academic vs. Industry Mindset {.smaller}
 
 | **Aspect** | **Academic World** | **Industry World** |
@@ -113,8 +162,6 @@ flowchart TD
 | **Communication** | Technical, detailed | Clear, actionable |
 | **Collaboration** | Individual expertise | Cross-functional teams |
 | **Risk** | High (breakthrough research) | Calculated (business ROI) |
-
----
 
 ## Business-Minded Questions {.smaller}
 
@@ -163,8 +210,6 @@ flowchart TD
 [**💡 Idea** → **💰 Revenue?** → **⚡ Feasible?** → **📈 Value?** → **✅ Proceed** or **❌ Pivot**]{style="font-size: 0.8em;"}
 :::
 
----
-
 ## The Art of Translation {.smaller}
 
 :::: {.columns}
@@ -195,9 +240,6 @@ flowchart TD
  Academic Skill + Business Context + Impact = Value
 :::
 
-
----
-
 ## Role-Specific Translations {.smaller}
 
 ::: {style="font-size: 1em;"}
@@ -211,7 +253,6 @@ flowchart TD
 | **Technical Writer** | Academic writing → User documentation<br>Complex concepts → Clear explanations |
 :::
 
----
 
 ## Critical Upskilling Areas {.smaller}
 
@@ -255,42 +296,38 @@ flowchart TD
 :::
 :::
 
----
+# Strategic Networking
 
 ## Why Networking Matters {.smaller}
 
-:::: {.columns}
-::: {.column width='50%'}
-**The Hidden Job Market**
-
-- 📊 **70-80% of jobs** never posted
-- **5x higher success** for referrals
-- **Inside knowledge** of company needs
-- **Early access** to opportunities
-
-**Your Academic Advantage**
-
-- 🎓 Research network spans industries
-- Alumni connections in diverse roles
-- Conference relationships established
+:::{style="text-align: center; background-color: #FFE4B5; padding: 20px; border-radius: 15px; margin-bottom: 20px;"}
+**70% of jobs are never posted publicly**^[https://blog.theinterviewguys.com/the-hidden-job-market/]
 :::
 
-::: {.column width='50%'}
-<div style="background-color: #F0F8FF; padding: 20px; border-radius: 15px; text-align: center;">
-**📊 Job Search Statistics**
+:::: {.columns}
+::: {.column width='60%'}
+:::{style="background-color: #F0F8FF; padding: 15px; border-radius: 10px; font-size: 0.9em;"}
+**The Hidden Job Market**
 
-**70%** Referrals/Networking  
-**20%** Online Applications  
-**10%** Recruiters
-</div>
+- Companies hire through referrals first
+- Positions filled before posting
+- Internal candidate recommendations
+- Networking events and connections
+:::
+:::
 
-<div style="background-color: #E8F5E8; padding: 15px; border-radius: 15px; margin-top: 15px;">
-**⚡ Start early!** Successful transitions begin networking **during** studies
-</div>
+::: {.column width='40%'}
+:::{style="background-color: #E8F5E8; padding: 15px; border-radius: 10px; font-size: 0.9em;"}
+**Why Networking Works**
+
+- Inside knowledge of roles
+- Referrals get noticed
+- Learn company culture
+- Skip the application pile
+:::
 :::
 ::::
 
----
 
 ## Strategic Networking Plan {.smaller}
 
@@ -339,7 +376,6 @@ flowchart TD
 ::::
 :::
 
----
 
 ## LinkedIn Outreach Examples {.smaller}
 
@@ -383,7 +419,7 @@ flowchart TD
 
 :::
 
----
+# Application Strategy
 
 ## Crafting Your Story {.smaller}
 
@@ -409,8 +445,6 @@ flowchart TD
 :::{.callout-important title="⚠️ Critical" icon="false"}
 Focus on attraction TO industry, not escape FROM academia
 :::
-
----
 
 ## Resume Transformation {.smaller}
 
@@ -439,8 +473,6 @@ Focus on attraction TO industry, not escape FROM academia
 :::{style="background-color: #FFF8DC; padding: 10px; border-radius: 15px; text-align: center; margin-top: 15px;"}
 💡 **Pro Tip**: Apply if you meet 60-70% of requirements!
 :::
-
----
 
 ## Interview Types {.smaller}
 
@@ -475,8 +507,6 @@ Focus on attraction TO industry, not escape FROM academia
 :::
 ::::
 
----
-
 ## Common Questions {.smaller}
 
 :::: {.columns}
@@ -505,8 +535,6 @@ Complaining about academic politics
 :::
 ::::
 
----
-
 ## Timeline Expectations {.smaller}
 
 :::{style="text-align: center; background-color: #E6F3FF; padding: 10px; border-radius: 15px;"}
@@ -526,7 +554,6 @@ Complaining about academic politics
 Start early • Be patient • Stay persistent
 :::
 
----
 
 ## Managing Transition
 
@@ -559,43 +586,35 @@ Start early • Be patient • Stay persistent
 :::
 ::::
 
----
-
-## Your Academic Assets {.smaller}
+## What You'll Enjoy vs. Miss {.smaller}
 
 :::: {.columns}
-::: {.column width='60%'}
-:::{style="background-color: #E8F5E8; padding: 20px; border-radius: 20px;"}
-**Core Strengths:**
+::: {.column width='50%'}
+:::{style="background-color: #E8F5E8; padding: 15px; border-radius: 10px;"}
+**What You'll Enjoy**
 
-- Rigorous analytical thinking  
-- Complex problem-solving  
-- Clear communication  
-- Persistence and resilience  
-- Intellectual curiosity
+- Immediate impact
+- Clear objectives  
+- Collaborative teams
+- Better resources
+- Career progression
 :::
 :::
 
-::: {.column width='40%'}
-:::{style="background-color: #F0F8FF; padding: 20px; border-radius: 15px;"}
-**Skill Categories**
+::: {.column width='50%'}
+:::{style="background-color: #FFE4E1; padding: 15px; border-radius: 10px;"}
+**What You Might Miss**
 
-**Critical Thinking**  
-• Problem Solving • Data Analysis
-
-**Communication**  
-• Writing • Presenting
-
-**Project Management**  
-• Research Design • Timeline Management
-
-**Collaboration**  
-• Peer Review • Mentoring
+- Deep exploration
+- Academic freedom
+- Knowledge creation
+- Publication prestige
+- Conference travel
 :::
 :::
 ::::
 
----
+# Summary
 
 ## Success Principles 
 
@@ -610,10 +629,8 @@ Start early • Be patient • Stay persistent
 :::
 
 :::{style="background-color: #FFFACD; padding: 15px; border-radius: 20px; text-align: center; margin-top: 15px;"}
-**Most Important**: Your academic journey **prepared** you for this transition
+Your academic journey has **perfectly prepared** you for this exciting transition!
 :::
-
----
 
 ## Questions & Discussion
 
@@ -654,4 +671,6 @@ How can we help each other?
 
 {{< fa solid envelope >}} [E-mail](mailto:patilindrajeet.science@gmail.com){target="_blank"}
 
-# Thank You!
+# Thank You
+
+Good luck! 🤞
