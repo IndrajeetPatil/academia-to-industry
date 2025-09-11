@@ -99,3 +99,12 @@ th, td {
 .reveal .slides section#title-slide .date {
     text-align: center !important;
 }
+
+/* Remove gaps between columns for better space utilization */
+.reveal .columns.no-gap {
+    gap: 0 !important;
+}
+
+.reveal .columns.no-gap .column {
+    padding: 0 0.25em !important;
+}

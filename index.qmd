@@ -13,12 +13,11 @@ format:
     theme: simple
     slide-number: true
     preview-links: auto
-    footer: "Source code available [here](https://github.com/IndrajeetPatil/academia-to-industry){target='_blank'}."
     include-in-header: meta-tags.html
     link-external-newwindow: true
 keywords: ["academia", "industry", "career transition", "professional development"]
 description: "A comprehensive guide for transitioning from academic career to industry"
-licence: "CC BY 4.0"
+licence: "CC0-1.0 license"
 dir: "ltr"
 ---
 
@@ -46,6 +45,48 @@ Industry requires different approaches and communication styles
 :::
 ::::
 
+---
+
+## {.smaller}
+
+:::{style="background-color: #FAFBFC; padding: 30px; border-radius: 15px; border: 2px solid #E1E4E8; margin: 20px 0;"}
+
+:::: {.columns}
+::: {.column width='30%'}
+**📍 My Journey**
+
+```{mermaid}
+flowchart TD
+    A["<b>Education</b><br/>Physics<br/>(5 years)"] --> B["<b>Research</b><br/>Cognitive Neuroscience/<br/>Social Psychology<br/>(10 years)"]
+    B --> C["<b>Software Engineering</b><br/>Current Role<br/>(&gt; 5 years)"]
+    
+    style A fill:#F0F8FF,stroke:#4169E1,stroke-width:2px,color:#000000
+    style B fill:#F5F0FF,stroke:#8A2BE2,stroke-width:2px,color:#000000
+    style C fill:#F0FFF0,stroke:#228B22,stroke-width:2px,color:#000000
+```
+:::
+
+::: {.column width='70%'}
+**🎯 Why I Can Help**
+
+:::{style="font-size: 0.8em; line-height: 1.5; margin-top: 15px;"}
+✅ **Multiple career pivots** → Navigated two major field changes  
+✅ **Academic depth** → Understand research mindset & culture  
+✅ **Industry reality** → Living the tech world daily  
+✅ **Bridge builder** → Translate academic ↔ business worlds  
+✅ **Fresh experience** → Recent transition, remember struggles  
+✅ **Practical insights** → Lived networking & interview process
+:::
+:::
+::::
+
+:::{style="background-color: #E8F4FD; padding: 20px; border-radius: 10px; margin-top: 25px; text-align: center; border-left: 4px solid #1976D2;"}
+**💡 My goal:** Sharing actionable insights from experience
+:::
+
+:::
+
+---
 
 ## What We'll Cover {.smaller}
 
@@ -674,3 +715,7 @@ How can we help each other?
 # Thank You
 
 Good luck! 🤞
+
+---
+
+Source code available [here](https://github.com/IndrajeetPatil/academia-to-industry){target='_blank'}.
