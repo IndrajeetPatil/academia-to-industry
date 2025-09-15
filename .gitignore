@@ -15,3 +15,16 @@ Thumbs.db
 # Output files
 *.pdf
 **/*.quarto_ipynb
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+README.html
+.DS_Store
+
+docs/
+_extensions/
+index.html
+index_files/
+slides.html
