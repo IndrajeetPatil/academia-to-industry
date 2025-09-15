@@ -696,6 +696,49 @@ Start early • Be patient • Stay persistent
 **💡 Key Insight**: Position yourself as an experienced professional transitioning domains, not a career starter
 :::
 
+## Poor Salary Negotiation {.smaller}
+
+:::: {.columns}
+::: {.column width='50%'}
+:::{.callout-tip title="📊 Research Tools" icon=false}
+
+**Salary Data Sources:**
+
+- Glassdoor, Levels.fyi
+- PayScale, Salary.com
+- LinkedIn Salary Insights
+
+**Consider:**
+
+- Base salary + bonuses
+- Stock options/equity
+- Benefits package
+
+:::
+:::
+
+::: {.column width='50%'}
+:::{.callout-important title="🎯 Negotiation Strategy" icon=false}
+
+**Academic → Industry Reality:**
+
+- Industry can pay 2-3x academic salaries
+- Total compensation matters
+- Room for negotiation exists
+
+**Timing:**
+
+- Wait for offer before discussing salary
+- Express enthusiasm first
+- Ask for time to consider
+:::
+:::
+::::
+
+:::{style="background-color: #E8F5E8; padding: 15px; border-radius: 15px; margin-top: 15px;"}
+**Sample Response:** *"Thank you for the offer! I'm excited about the opportunity. Based on my research and experience, I was expecting a range of $X-Y. Could we please discuss the compensation package?"*
+:::
+
 # Summary
 
 ## Success Principles 
