@@ -1,0 +1,17 @@
+# Quarto
+/.quarto/
+/_site/
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files
+*.pdf
+**/*.quarto_ipynb
