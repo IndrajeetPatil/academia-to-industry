@@ -874,13 +874,13 @@ How can we help each other?
 
 # Find me at...
 
-{{< fa brands linkedin >}} [LikedIn](https://www.linkedin.com/in/indrajeet-patil-397865174/){target="_blank"}
+{{< fa brands linkedin >}} [LikedIn](https://www.linkedin.com/in/indrajeet-patil-ph-d-397865174/)
 
-{{< fa brands github >}} [GitHub](http://github.com/IndrajeetPatil){target="_blank"}
+{{< fa brands github >}} [GitHub](http://github.com/IndrajeetPatil)
 
-{{< fa solid link >}} [Website](https://sites.google.com/site/indrajeetspatilmorality/){target="_blank"}
+{{< fa solid link >}} [Website](https://sites.google.com/site/indrajeetspatilmorality/)
 
-{{< fa solid envelope >}} [E-mail](mailto:patilindrajeet.science@gmail.com){target="_blank"}
+{{< fa solid envelope >}} [E-mail](mailto:patilindrajeet.science@gmail.com)
 
 # Thank You
 
