@@ -2,72 +2,48 @@
 
 **A Practical Guide for Making the Transition**
 
-## Overview
-
 This presentation provides a comprehensive framework for academics seeking to transition into industry careers. Whether you're a PhD student, postdoc, or established researcher, this guide offers practical strategies, actionable frameworks, and real-world insights to help you navigate your career transition successfully.
 
-## What You'll Learn
+The slides can be seen here:<br>
+<https://indrajeetpatil.github.io/academia-to-industry/>
 
-- **Self-Assessment**: Identify your motivations and translate your academic strengths
-- **Skill Translation**: Communicate your value in business terms that resonate with industry
-- **Strategic Networking**: Build meaningful connections and access the hidden job market
-- **Application Strategy**: Present yourself effectively through resumes, interviews, and storytelling
-- **Critical Upskilling**: Learn industry-standard tools and leverage AI for productivity
-- **Timeline & Expectations**: Understand the realistic journey from academia to industry
+# Development
 
-## Key Features
+This project uses Python 3.13+ with [uv](https://docs.astral.sh/uv/) for dependency management, [Quarto](https://quarto.org/) for rendering slides, and [just](https://github.com/casey/just) as a command runner.
 
-- 🎯 **Practical frameworks** with actionable steps
-- 📊 **Real-world examples** and case studies
-- 🔄 **Skill translation guides** for 6 common industry roles
-- 💡 **Modern approaches** including AI-enhanced learning
-- 📈 **Timeline expectations** and transition management strategies
+## Prerequisites
 
-## Viewing the Presentation
-
-**🌐 [View the live presentation](https://indrajeetpatil.github.io/academia-to-industry/)**
-
-The presentation is designed as interactive slides optimised for both live presentations and self-study.
-
-## Target Audience
-
-This guide is designed for:
-
-- PhD students considering industry careers
-- Postdoctoral researchers seeking career transitions
-- Early-career academics exploring alternative paths
-- Career counselors and advisors supporting academic transitions
-- Anyone interested in understanding the academia-to-industry pathway
-
-## Technical Details
-
-- **Built with**: [Quarto](https://quarto.org/) and [RevealJS](https://revealjs.com/)
-- **Format**: Interactive HTML presentation
-- **Features**: Responsive design, speaker notes, and PDF export capability
-- **Licence**: CC BY 4.0 (freely reusable with attribution)
-
-## Repository Structure
-
-```
-├── index.qmd           # Main presentation source
-├── style.css          # Custom styling
-├── meta-tags.html     # SEO metadata
-├── DESCRIPTION        # Package dependencies
-└── _quarto.yml        # Quarto configuration
+```bash
+# Install just (macOS)
+brew install just
 ```
 
-## Contributing
+## Setup
 
-This presentation is open source and contributions are welcome! Feel free to:
+```bash
+# Install dependencies
+just install
 
-- Submit issues for improvements or corrections
-- Propose new content or examples
-- Suggest better frameworks or approaches
+# Or update to latest versions
+just update
+```
 
-## Author
+## Common Commands
 
-**Indrajeet Patil**  
-📧 [patilindrajeet.science@gmail.com](mailto:patilindrajeet.science@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/indrajeet-patil-397865174/)  
-🐙 [GitHub](http://github.com/IndrajeetPatil)  
-🌐 [Website](https://sites.google.com/site/indrajeetspatilmorality/)
+```bash
+just help      # Show all available commands
+just render    # Render slides to HTML
+just preview   # Live preview with auto-reload
+just open      # Open rendered slides in browser
+just clean     # Remove generated files
+just check     # Check Quarto and Python setup
+just           # Install, render, and open slides (default)
+```
+
+# Feedback
+
+I'd love to hear thoughts and comments [here](https://github.com/IndrajeetPatil/academia-to-industry/issues).
+
+# Code of Conduct
+
+Please note that the academia-to-industry project is released with a [Contributor Code of Conduct](https://www.contributor-covenant.org/version/3/0/code_of_conduct/). By contributing to this project, you agree to abide by its terms.

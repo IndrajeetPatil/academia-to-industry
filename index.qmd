@@ -1,12 +1,4 @@
 ---
-title: "From Academia to Industry"
-subtitle: "A Practical Guide for Making the Transition"
-author: 
-  - name: "Indrajeet Patil"
-    email: "patilindrajeet.science@gmail.com"
-    affiliations: "Carl Zeiss AG"
-date: "2025-09-11"
-date-format: "MMMM DD, YYYY"
 format:
   revealjs:
     css: style.css
@@ -15,11 +7,28 @@ format:
     preview-links: auto
     include-in-header: meta-tags.html
     link-external-newwindow: true
+revealjs-plugins:
+  - fontawesome
 keywords: ["academia", "industry", "career transition", "professional development"]
-description: "A comprehensive guide for transitioning from academic career to industry"
-licence: "CC0-1.0 license"
+description-meta: "A comprehensive guide for transitioning from academic career to industry"
+license: "CC0 1.0 Universal"
+lang: "en"
 dir: "ltr"
 ---
+
+##  {.center}
+
+::: {style="text-align: center;"}
+
+[From Academia to Industry]{style="font-size: 1.8em; font-weight: bold;"}
+
+[A Practical Guide for Making the Transition]{style="font-size: 1.1em; color: #666;"}
+
+![](media/social-media-card.png){width="350"}
+
+[Indrajeet Patil]{style="font-size: 0.9em;"} | [2025-12-05]{style="font-size: 0.9em; color: #888;"}
+
+:::
 
 ## Why This Guide?
 
@@ -872,22 +881,25 @@ How can we help each other?
 :::
 ::::
 
-# Find me at...
-
-{{< fa brands linkedin >}} [LikedIn](https://www.linkedin.com/in/indrajeet-patil-ph-d-397865174/)
-
-{{< fa brands github >}} [GitHub](http://github.com/IndrajeetPatil)
-
-{{< fa solid link >}} [Website](https://sites.google.com/site/indrajeetspatilmorality/)
-
-{{< fa solid envelope >}} [E-mail](mailto:patilindrajeet.science@gmail.com)
-
 # Thank You
 
-Good luck! 🤞
+Good luck! 😊
 
-<br><br><br><br>
+<br>
+<br>
 
-:::{style="font-size: 0.6em; color: #999; text-align: center;"}
-Source code available [here](https://github.com/IndrajeetPatil/academia-to-industry){target='_blank'}.
+::: {style="text-align: center; font-size: 0.7em;"}
+
+Check out my other [slide decks](https://sites.google.com/site/indrajeetspatilmorality/presentations) on software development best practices
+
+:::
+
+::: {style="text-align: center; font-size: 1em;"}
+
+[{{< fa brands linkedin >}}](https://www.linkedin.com/in/indrajeet-patil-ph-d-397865174/)
+&nbsp;&nbsp;
+[{{< fa brands github >}}](http://github.com/IndrajeetPatil) 
+&nbsp;&nbsp;
+[{{< fa solid envelope >}}](mailto:patilindrajeet.science@gmail.com)
+
 :::
