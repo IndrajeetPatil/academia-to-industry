@@ -1,0 +1,23 @@
+[project]
+name = "academia-to-industry"
+version = "1.0.0"
+description = "A comprehensive guide for transitioning from academic career to industry"
+readme = "README.md"
+requires-python = ">=3.13"
+license = { text = "CC0 1.0 Universal" }
+authors = [
+    { name = "Indrajeet Patil", email = "patilindrajeet.science@gmail.com" }
+]
+keywords = [
+    "academia",
+    "industry",
+    "career transition",
+    "professional development"
+]
+dependencies = ["jupyter>=1.0.0", "ipykernel>=6.29.0"]
+
+[tool.uv]
+required-version = ">=0.9.15"
+
+[dependency-groups]
+dev = []

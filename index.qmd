@@ -1,12 +1,8 @@
 ---
 title: "From Academia to Industry"
 subtitle: "A Practical Guide for Making the Transition"
-author: 
-  - name: "Indrajeet Patil"
-    email: "patilindrajeet.science@gmail.com"
-    affiliations: "Carl Zeiss AG"
-date: "2025-09-11"
-date-format: "MMMM DD, YYYY"
+author: "Indrajeet Patil"
+date: "2025-12-05"
 format:
   revealjs:
     css: style.css
@@ -15,9 +11,12 @@ format:
     preview-links: auto
     include-in-header: meta-tags.html
     link-external-newwindow: true
+revealjs-plugins:
+  - fontawesome
 keywords: ["academia", "industry", "career transition", "professional development"]
-description: "A comprehensive guide for transitioning from academic career to industry"
-licence: "CC0-1.0 license"
+description-meta: "A comprehensive guide for transitioning from academic career to industry"
+license: "CC0 1.0 Universal"
+lang: "en"
 dir: "ltr"
 ---
 
