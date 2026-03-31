@@ -18,6 +18,11 @@ ENV/
 _site/
 README.html
 
-# Output files
+# Claude
+.claude/
+
+# Generated files
+_extensions/
 index.html
 index_files/
+index.quarto_ipynb
