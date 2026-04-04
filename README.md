@@ -5,7 +5,7 @@
 This presentation provides a comprehensive framework for academics seeking to transition into industry careers. Whether you're a PhD student, postdoc, or established researcher, this guide offers practical strategies, actionable frameworks, and real-world insights to help you navigate your career transition successfully.
 
 The slides can be seen here:<br>
-<https://indrajeetpatil.github.io/academia-to-industry/>
+<https://www.indrapatil.com/academia-to-industry/>
 
 # Development
 
