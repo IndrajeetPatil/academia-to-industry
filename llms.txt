@@ -1,0 +1,27 @@
+# From Academia to Industry
+
+> A Quarto RevealJS presentation by Indrajeet Patil.
+
+A comprehensive guide for transitioning from academic career to industry
+
+## Primary URL
+
+- [Slides](https://www.indrapatil.com/academia-to-industry/)
+
+## Source
+
+- [GitHub repository](https://github.com/IndrajeetPatil/academia-to-industry/)
+
+## Topics
+
+- academia
+- industry
+- career transition
+- professional development
+- career advice
+- presentation
+- slides
+
+## Machine-readable companion
+
+- [Full agent summary](https://www.indrapatil.com/academia-to-industry/llms-full.txt)
