@@ -1,0 +1,10 @@
+# From Academia to Industry
+
+This is the well-known discovery copy for agentic assistants.
+
+Canonical slides: https://www.indrapatil.com/academia-to-industry/
+Root llms.txt: https://www.indrapatil.com/academia-to-industry/llms.txt
+Root llms-full.txt: https://www.indrapatil.com/academia-to-industry/llms-full.txt
+Source: https://github.com/IndrajeetPatil/academia-to-industry/
+
+Summary: A comprehensive guide for transitioning from academic career to industry
