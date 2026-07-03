@@ -10,8 +10,11 @@ format:
 revealjs-plugins:
   - fontawesome
 keywords: ["academia", "industry", "career transition", "professional development"]
-description-meta: "A comprehensive guide for transitioning from academic career to industry"
+description-meta: "A comprehensive guide for making the transition from academic career to industry. Learn how to translate your skills, network effectively, and successfully navigate the career change from academia to tech and other industries."
 license: "CC0 1.0 Universal"
+pagetitle: "From Academia to Industry"
+author-meta: "Indrajeet Patil"
+date-meta: "2025-12-05"
 lang: "en"
 dir: "ltr"
 ---
