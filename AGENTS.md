@@ -66,7 +66,7 @@ All commands use [just](https://github.com/casey/just). The recipes are the same
 just install   # Install Quarto extensions + language deps
 just render    # Render index.qmd to _site/
 just preview   # Live-reload dev server
-just open      # Open _site/index.html in browser
+just open      # Alias for preview (live-reload dev server over localhost)
 just clean     # Remove build artifacts
 just check     # Verify Quarto setup
 just update    # Update all deps (extensions + language packages)
