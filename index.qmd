@@ -27,7 +27,7 @@ dir: "ltr"
 
 [A Practical Guide for Making the Transition]{style="font-size: 1.1em; color: #666;"}
 
-![](media/social-media-card.png){width="350"}
+![](media/social-media-card.webp){width="350"}
 
 [Indrajeet Patil]{style="font-size: 0.9em;"} | [2025-12-05]{style="font-size: 0.9em; color: #888;"}
 
