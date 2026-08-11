@@ -144,9 +144,13 @@ body,
   text-underline-offset: 0.13em;
 }
 
-.reveal a:hover,
-.reveal a:focus-visible {
+.reveal a:hover {
   color: var(--field-coral);
+  text-decoration-color: currentColor;
+}
+
+.reveal a:focus-visible {
+  color: var(--field-blue);
   text-decoration-color: currentColor;
 }
 
