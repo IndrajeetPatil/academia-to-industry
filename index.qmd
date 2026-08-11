@@ -19,17 +19,23 @@ dir: "ltr"
 
 ##  {.center}
 
-::: {style="text-align: center;"}
+:::: {.deck-cover style="text-align: center;"}
 
-[From Academia to Industry]{style="font-size: 1.8em; font-weight: bold;"}
+::: {.cover-heading}
+[From Academia to Industry]{.cover-title}
 
-[A Practical Guide for Making the Transition]{style="font-size: 1.1em; color: #666;"}
-
-![](media/social-media-card.webp){width="350"}
-
-[Indrajeet Patil]{style="font-size: 0.9em;"} | [2025-12-05]{style="font-size: 0.9em; color: #888;"}
-
+[A Practical Guide for Making the Transition]{.cover-subtitle}
 :::
+
+::: {.cover-visual}
+![](media/social-media-card.webp){.cover-art width="350" fig-alt="Illustration of an academic graduate stepping toward an industry professional carrying a briefcase"}
+:::
+
+::: {.cover-meta}
+[Indrajeet Patil]{.cover-author} | [2025-12-05]{.cover-date}
+:::
+
+::::
 
 ## Why This Guide?
 
@@ -108,7 +114,7 @@ flowchart TD
 **Goal:** *Successfully transition from academia to industry with confidence and clarity*
 
 
-# Self-Assessment
+# Self-Assessment {data-section-marker="01"}
 
 
 ## Know Your "Why" {.smaller}
@@ -190,7 +196,7 @@ flowchart TD
 :::
 ::::
 
-# Skill Translation
+# Skill Translation {data-section-marker="02"}
 
 ## Your Transferable Skills {.smaller}
 
@@ -347,7 +353,7 @@ flowchart TD
 :::
 :::
 
-# Strategic Networking
+# Strategic Networking {data-section-marker="03"}
 
 ## Why Networking Matters {.smaller}
 
@@ -470,7 +476,7 @@ flowchart TD
 
 :::
 
-# Application Strategy
+# Application Strategy {data-section-marker="04"}
 
 ## Crafting Your Story {.smaller}
 
@@ -665,7 +671,7 @@ Start early • Be patient • Stay persistent
 :::
 ::::
 
-# Common Mistakes
+# Common Mistakes {data-section-marker="05"}
 
 ## Underestimating Your Value {.smaller}
 
@@ -835,7 +841,7 @@ Start early • Be patient • Stay persistent
 **💡 Rule of thumb**: Spend 2-3 hours researching and customizing each application rather than sending 20 generic ones
 :::
 
-# Summary
+# Summary {data-section-marker="06"}
 
 ## Success Principles 
 
@@ -882,7 +888,7 @@ How can we help each other?
 :::
 ::::
 
-# Thank You
+# Thank You {data-section-marker="→"}
 
 Good luck! 😊
 
