@@ -82,22 +82,6 @@ body,
   font-weight: 500;
 }
 
-.reveal::before {
-  position: fixed;
-  inset: 0 auto 0 0;
-  z-index: 2;
-  width: 8px;
-  background: linear-gradient(
-    180deg,
-    var(--field-coral) 0 28%,
-    var(--field-gold) 28% 48%,
-    var(--field-teal) 48% 76%,
-    var(--field-blue) 76% 100%
-  );
-  content: "";
-  pointer-events: none;
-}
-
 .reveal .slides section {
   box-sizing: border-box;
   color: var(--field-ink);
@@ -476,18 +460,11 @@ body,
 .reveal .callout {
   margin: 0.48em 0;
   overflow: hidden;
-  border: 1px solid var(--field-border);
-  border-top: 6px solid var(--field-blue);
+  border: 1px solid var(--field-border) !important;
   border-radius: 11px;
   background: var(--field-card);
   box-shadow: 6px 6px 0 var(--field-shadow);
 }
-
-.reveal .callout.callout-note { border-top-color: var(--field-blue); }
-.reveal .callout.callout-tip { border-top-color: var(--field-teal); }
-.reveal .callout.callout-important { border-top-color: var(--field-coral); }
-.reveal .callout.callout-caution,
-.reveal .callout.callout-warning { border-top-color: var(--field-red); }
 
 .reveal .callout .callout-body {
   padding: 0.48em 0.65em 0.58em;
@@ -526,8 +503,7 @@ body,
 .reveal .slides div[style*="#A9F5A9" i],
 .reveal .slides div[style*="#E8F5E8" i],
 .reveal .slides div[style*="#F0FFF0" i] {
-  border: 1px solid rgba(8, 127, 120, 0.22) !important;
-  border-top: 6px solid var(--field-teal) !important;
+  border: 1px solid var(--field-border) !important;
   border-radius: 11px !important;
   background: linear-gradient(180deg, var(--field-teal-soft), var(--field-card)) !important;
   box-shadow: 6px 6px 0 rgba(8, 127, 120, 0.1);
@@ -536,8 +512,7 @@ body,
 .reveal .slides div[style*="#F0F8FF" i],
 .reveal .slides div[style*="#E8F4FD" i],
 .reveal .slides div[style*="#E6F3FF" i] {
-  border: 1px solid rgba(49, 87, 200, 0.2) !important;
-  border-top: 6px solid var(--field-blue) !important;
+  border: 1px solid var(--field-border) !important;
   border-radius: 11px !important;
   background: linear-gradient(180deg, var(--field-blue-soft), var(--field-card)) !important;
   box-shadow: 6px 6px 0 rgba(49, 87, 200, 0.09);
@@ -545,8 +520,7 @@ body,
 
 .reveal .slides div[style*="#FFE4E1" i],
 .reveal .slides div[style*="#FFF0F5" i] {
-  border: 1px solid rgba(198, 60, 75, 0.22) !important;
-  border-top: 6px solid var(--field-red) !important;
+  border: 1px solid var(--field-border) !important;
   border-radius: 11px !important;
   background: linear-gradient(180deg, var(--field-red-soft), var(--field-card)) !important;
   box-shadow: 6px 6px 0 rgba(198, 60, 75, 0.09);
@@ -555,8 +529,7 @@ body,
 .reveal .slides div[style*="#FFFACD" i],
 .reveal .slides div[style*="#FFF8DC" i],
 .reveal .slides div[style*="#FFE4B5" i] {
-  border: 1px solid rgba(226, 167, 46, 0.28) !important;
-  border-top: 6px solid var(--field-gold) !important;
+  border: 1px solid var(--field-border) !important;
   border-radius: 11px !important;
   background: linear-gradient(180deg, var(--field-gold-soft), var(--field-card)) !important;
   box-shadow: 6px 6px 0 rgba(226, 167, 46, 0.11);
@@ -565,7 +538,6 @@ body,
 .reveal .slides div[style*="#FAFBFC" i],
 .reveal .slides div[style*="#F8F9FA" i] {
   border: 1px solid var(--field-border) !important;
-  border-left: 6px solid var(--field-ink) !important;
   border-radius: 11px !important;
   background: var(--field-card) !important;
   box-shadow: 7px 7px 0 var(--field-shadow);
@@ -592,8 +564,8 @@ body,
 .reveal .slides section#what-well-cover ul {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 14px;
-  margin: 0.65em 0 0.8em;
+  gap: 22px 24px;
+  margin: 0.8em 0 1em;
   padding: 0;
   counter-reset: field-topic;
   list-style: none;
@@ -606,10 +578,12 @@ body,
 
 .reveal .slides section#what-well-cover li {
   position: relative;
+  display: grid;
+  align-content: center;
   counter-increment: field-topic;
-  min-height: 76px;
+  min-height: 112px;
   margin: 0;
-  padding: 16px 18px 14px 46px;
+  padding: 20px 24px 20px 82px;
   border: 1px solid var(--field-border);
   border-radius: 11px;
   background: var(--field-card);
@@ -618,12 +592,35 @@ body,
 
 .reveal .slides section#what-well-cover li::before {
   position: absolute;
-  top: 15px;
-  left: 16px;
+  top: 24px;
+  left: 24px;
   color: var(--field-coral);
   font-family: var(--r-code-font);
+  font-size: 1.08em;
   font-weight: 600;
   content: counter(field-topic, decimal-leading-zero);
+}
+
+.reveal .slides section#what-well-cover .agenda-title,
+.reveal .slides section#what-well-cover .agenda-detail {
+  display: block;
+}
+
+.reveal .slides section#what-well-cover .agenda-title {
+  margin-bottom: 0.2em;
+  font-size: 1.04em;
+  line-height: 1.08;
+}
+
+.reveal .slides section#what-well-cover .agenda-detail {
+  color: var(--field-ink-soft);
+  font-size: 0.9em;
+  line-height: 1.32;
+}
+
+.reveal .slides section#what-well-cover .agenda-goal {
+  margin-top: 1.1em;
+  padding: 0 0.12em;
 }
 
 .reveal .slides section#example-pathways .column > div,
@@ -691,10 +688,6 @@ body,
 .reveal .slides section#timeline-expectations div[style*="#F0FFF0" i] {
   position: relative;
   padding-left: 42px !important;
-}
-
-.reveal .slides section#success-principles .callout {
-  border-top-color: var(--field-teal);
 }
 
 .reveal .panel-tabset .tab-content {
