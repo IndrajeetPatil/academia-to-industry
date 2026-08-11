@@ -96,7 +96,7 @@ flowchart TD
 :::
 ::::
 
-:::{style="background-color: #E8F4FD; padding: 20px; border-radius: 10px; margin-top: 25px; text-align: center; border-left: 4px solid #1976D2;"}
+:::{style="background-color: #E8F4FD; padding: 20px; border-radius: 10px; margin-top: 25px; text-align: center;"}
 **💡 My goal:** Sharing actionable insights from experience
 :::
 
@@ -106,12 +106,14 @@ flowchart TD
 
 ## What We'll Cover {.smaller}
 
-- **Self-Assessment** - Know your why and identify your strengths
-- **Skill Translation** - Communicate your value in business terms  
-- **Strategic Networking** - Build meaningful industry connections
-- **Application Strategy** - Present yourself effectively to employers
+- [**Self-Assessment**]{.agenda-title} [Know your why and identify your strengths]{.agenda-detail}
+- [**Skill Translation**]{.agenda-title} [Communicate your value in business terms]{.agenda-detail}
+- [**Strategic Networking**]{.agenda-title} [Build meaningful industry connections]{.agenda-detail}
+- [**Application Strategy**]{.agenda-title} [Present yourself effectively to employers]{.agenda-detail}
 
+:::{.agenda-goal}
 **Goal:** *Successfully transition from academia to industry with confidence and clarity*
+:::
 
 
 # Self-Assessment {data-section-marker="01"}
