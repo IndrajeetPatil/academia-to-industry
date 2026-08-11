@@ -19,13 +19,13 @@ dir: "ltr"
 
 ##  {.center}
 
-::: {style="text-align: center;"}
+::: {.deck-cover style="text-align: center;"}
 
 [From Academia to Industry]{style="font-size: 1.8em; font-weight: bold;"}
 
 [A Practical Guide for Making the Transition]{style="font-size: 1.1em; color: #666;"}
 
-![](media/social-media-card.webp){width="350"}
+![](media/social-media-card.webp){.cover-art width="350" fig-alt="Illustration of an academic graduate stepping toward an industry professional carrying a briefcase"}
 
 [Indrajeet Patil]{style="font-size: 0.9em;"} | [2025-12-05]{style="font-size: 0.9em; color: #888;"}
 
