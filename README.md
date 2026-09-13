@@ -35,8 +35,11 @@ just preview  # Start a live preview with auto-reload
 just open     # Alias for preview (live-reload dev server over localhost)
 just clean    # Remove generated files and caches
 just check    # Check the Quarto and Python setup
+just axe      # Preview with an appended accessibility report
 just          # Install dependencies and start live-reload preview
 ```
+
+`just axe` activates `_quarto-a11y.yml`, which appends an axe-core accessibility report slide. Normal rendering keeps the checker and its report out of the published deck. Quarto commands run through `uv run` to sync the environment and discover the project Python interpreter.
 
 ## Feedback
 
