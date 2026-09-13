@@ -6,6 +6,7 @@ format:
     slide-number: true
     preview-links: auto
     include-in-header: meta-tags.html
+    include-after-body: accessibility.html
     link-external-newwindow: true
 keywords: ["academia", "industry", "career transition", "professional development"]
 description-meta: "A comprehensive guide for making the transition from academic career to industry. Learn how to translate your skills, network effectively, and successfully navigate the career change from academia to tech and other industries."
@@ -17,7 +18,7 @@ lang: "en"
 dir: "ltr"
 ---
 
-##  {.center}
+## From Academia to Industry {#section .center}
 
 :::: {.deck-cover style="text-align: center;"}
 
@@ -63,7 +64,7 @@ Industry requires different approaches and communication styles
 
 ---
 
-## {.smaller}
+## My Journey {#section-1 .smaller}
 
 :::{style="background-color: #FAFBFC; padding: 30px; border-radius: 15px; border: 2px solid #E1E4E8; margin: 20px 0;"}
 
@@ -360,7 +361,7 @@ flowchart TD
 ## Why Networking Matters {.smaller}
 
 :::{style="text-align: center; background-color: #FFE4B5; padding: 20px; border-radius: 15px; margin-bottom: 20px;"}
-**70% of jobs are never posted publicly**^[https://blog.theinterviewguys.com/the-hidden-job-market/]
+**[70% of jobs are never posted publicly](https://blog.theinterviewguys.com/the-hidden-job-market/){style="text-decoration: underline;"}**
 :::
 
 :::: {.columns}
@@ -511,7 +512,7 @@ Focus on attraction TO industry, not escape FROM academia
 ::: {.column width='50%'}
 :::{.callout-caution title="🗑️ Remove" icon=false}
 
-- Publication lists^[Retain key ones for R&D positions]
+- Publication lists (retain key ones for R&D positions)
 - Conference presentations
 - Teaching responsibilities
 - Academic honors
