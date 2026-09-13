@@ -361,7 +361,7 @@ flowchart TD
 ## Why Networking Matters {.smaller}
 
 :::{style="text-align: center; background-color: #FFE4B5; padding: 20px; border-radius: 15px; margin-bottom: 20px;"}
-**[70% of jobs are never posted publicly](https://blog.theinterviewguys.com/the-hidden-job-market/){style="text-decoration: underline;"}**
+**70% of jobs are never posted publicly**
 :::
 
 :::: {.columns}
@@ -387,6 +387,10 @@ flowchart TD
 :::
 :::
 ::::
+
+:::{style="font-size: 0.6em; text-align: center; margin-top: 15px;"}
+Source: [The Interview Guys: The Hidden Job Market](https://blog.theinterviewguys.com/the-hidden-job-market/){style="text-decoration: underline;"}
+:::
 
 
 ## Strategic Networking Plan {.smaller}
