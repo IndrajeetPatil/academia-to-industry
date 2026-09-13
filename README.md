@@ -35,8 +35,15 @@ just preview  # Start a live preview with auto-reload
 just open     # Alias for preview (live-reload dev server over localhost)
 just clean    # Remove generated files and caches
 just check    # Check the Quarto and Python setup
+just axe      # Preview with an appended accessibility report
 just          # Install dependencies and start live-reload preview
 ```
+
+`just axe --no-browser --port 8891` forwards preview options for automated checks.
+
+`just axe` activates `_quarto-a11y.yml`, which appends an axe-core accessibility report slide. Normal rendering keeps the checker and its report out of the published deck. Quarto commands run through `uv run` to sync the environment and discover the project Python interpreter.
+
+`accessibility.html` keeps browser zoom available, names the slide menu, manages its keyboard focus, and keeps inactive slides out of the tab order, keeps generated controls in document order, and supports arrow-key navigation in tabs and overflowing code. These fixes apply to the published presentation as well as the audit preview.
 
 ## Feedback
 
