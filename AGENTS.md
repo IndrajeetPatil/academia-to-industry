@@ -16,7 +16,7 @@ _quarto.yml          # Quarto project config (output dir, resources list)
 _quarto-a11y.yml     # Opt-in profile enabling the axe accessibility checker (`just axe`)
 style.css            # Custom RevealJS theme (fonts, colours, component classes)
 meta-tags.html       # OpenGraph, Twitter Card, JSON-LD, and analytics tags
-accessibility.html   # Browser zoom, named menu controls, and keyboard focus support
+accessibility.html  # Compatibility fixes supplementing the a11y extension
 justfile             # Command runner (install, render, preview, clean, etc.)
 media/               # Images: evidence screenshots, illustrations, social card
 llms.txt             # Short machine-readable summary for LLM discovery
@@ -25,7 +25,7 @@ llms-full.txt        # Extended machine-readable summary
 robots.txt           # Crawl rules
 sitemap.xml          # Sitemap for search engines
 .github/             # CI workflow (reusable, from IndrajeetPatil/workflows) and Dependabot
-_extensions/         # Optional Quarto extensions (gitignored; currently unused)
+_extensions/         # Latest a11y extension, installed by `just install` and CI (gitignored)
 _site/               # Build output (gitignored)
 ```
 
@@ -64,7 +64,12 @@ Check which set is present to know which language context applies.
   Links inside muted text need a non-colour cue (e.g. `text-decoration: underline`) to satisfy WCAG 1.4.1.
   Run `just axe --no-browser --port 8891` for a headless preview, and inspect the generated report as well as
   each visible slide, fragment, tab, and native `?view=scroll` state. Fix findings instead of disabling rules.
-  Keep the lightweight fixes in `accessibility.html` enabled in normal builds; only the audit payload is opt-in.
+  The `a11y` extension supplies zoom, focus indicators, link underlines, reduced motion,
+  slide isolation, and screen-reader announcements. Keep `accessibility.html` for
+  code scrolling, menu focus, and vertical-slide semantics.
+  Retain tab ordering and arrow-key navigation for this deck's tabsets.
+  Disable the extension's slide-menu patch and settings menu as in the reference
+  deck: version 0.2.3 introduces ARIA and contrast failures in those components.
 - **Icons.** Icons use lightweight HTML spans backed by only the required SVG path data in the custom stylesheet; no icon-font or Quarto icon extension is needed.
   When adding an icon, add only its mask data, preserve the source licence attribution, keep an accessible label where the icon conveys meaning, and render the deck to verify it.
 - **Mermaid performance boundary.** Keep Mermaid diagrams as Mermaid source. Do not replace them with pre-rendered SVGs solely to reduce the website bundle.
@@ -76,7 +81,7 @@ Check which set is present to know which language context applies.
 All commands use [just](https://github.com/casey/just). The recipes are the same across decks; only the dependency backend differs:
 
 ```bash
-just install   # Install language dependencies
+just install   # Install language dependencies and the latest a11y extension
 just render    # Render index.qmd to _site/
 just preview   # Live-reload dev server
 just open      # Alias for preview (live-reload dev server over localhost)
@@ -112,6 +117,9 @@ When modifying `index.qmd`:
 
 - The GitHub Actions workflow in `.github/workflows/` renders the deck and deploys to GitHub Pages on push to `main`. It calls a reusable workflow from `IndrajeetPatil/workflows` (Python and R decks use different workflow files). Do not inline the workflow.
 - **Reference the reusable workflow as `@main`, not a commit SHA.** Tracking this first-party workflow is intentional so upstream fixes arrive immediately, including stable Quarto releases and removal of the unused FontAwesome installation. Dependabot cannot bump a branch ref.
+- Install the latest a11y extension directly from upstream with
+  `quarto add mcanouil/quarto-revealjs-a11y --no-prompt` in both `justfile` and CI.
+  This extension is trusted; do not add version pins, vendoring, or checksum checks.
 - Dependabot keeps GitHub Actions dependencies up to date weekly. Python decks also have Dependabot configured for `uv`; R decks do not use Dependabot for R packages.
 
 ## What not to do

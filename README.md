@@ -28,7 +28,7 @@ just install
 
 ```bash
 just help     # Show all available commands
-just install  # Install Python dependencies
+just install  # Install Python dependencies and the a11y extension
 just update   # Update Python dependencies
 just render   # Render slides to HTML
 just preview  # Start a live preview with auto-reload
@@ -43,7 +43,24 @@ just          # Install dependencies and start live-reload preview
 
 `just axe` activates `_quarto-a11y.yml`, which appends an axe-core accessibility report slide. Normal rendering keeps the checker and its report out of the published deck. Quarto commands run through `uv run` to sync the environment and discover the project Python interpreter.
 
-`accessibility.html` keeps browser zoom available, names the slide menu, manages its keyboard focus, and keeps inactive slides out of the tab order, keeps generated controls in document order, and supports arrow-key navigation in tabs and overflowing code. These fixes apply to the published presentation as well as the audit preview.
+### Accessibility
+
+`just install` and the shared CI workflow install the latest
+[`quarto-revealjs-a11y`](https://github.com/mcanouil/quarto-revealjs-a11y) directly
+from upstream with `quarto add mcanouil/quarto-revealjs-a11y --no-prompt`.
+The extension handles browser zoom, slide isolation, focus indicators, link
+underlines, reduced motion, and screen-reader announcements.
+
+Run `just install` again after `just clean`, which removes installed extensions.
+
+The `accessibility.html` helper still handles scrollable code, slide-menu focus,
+and vertical-slide semantics. Tab ordering and arrow-key navigation remain for this deck's tabsets.
+The extension's slide-menu patch and accessibility settings panel are disabled
+as in the reference deck: version 0.2.3 introduces ARIA and contrast failures in
+those components.
+
+Use `just axe` to inspect slides, fragments, and menu panels in presentation and
+scroll views. Normal builds omit the axe checker.
 
 ## Feedback
 
