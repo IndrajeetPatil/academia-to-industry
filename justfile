@@ -1,4 +1,4 @@
-# Default recipe - install, then preview slides with live reload
+# Default recipe - install, render, and open slides
 default: install preview
 
 # Show help
@@ -38,7 +38,7 @@ render:
 preview:
     uv run quarto preview index.qmd
 
-# Open slides in browser with live reload (served over localhost, Chrome-safe)
+# Alias for preview (live-reload dev server)
 alias open := preview
 
 # Clean generated files
@@ -49,8 +49,9 @@ clean:
     rm -f index.html
     rm -rf index_files/
     rm -rf .ipynb_checkpoints/
+    rm -f README.html
 
-# Check Quarto setup
+# Check Quarto and Python setup
 check:
     uv run quarto check
 
