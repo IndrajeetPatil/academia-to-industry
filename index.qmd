@@ -24,9 +24,6 @@ format:
     include-in-header: meta-tags.html
     include-after-body: accessibility.html
     link-external-newwindow: true
-execute:
-  echo: true
-  eval: false
 keywords: ["academia", "industry", "career transition", "professional development"]
 description-meta: "A comprehensive guide for making the transition from academic career to industry. Learn how to translate your skills, network effectively, and successfully navigate the career change from academia to tech and other industries."
 license: "CC0 1.0 Universal"
