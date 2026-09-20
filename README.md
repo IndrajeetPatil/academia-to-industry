@@ -1,5 +1,7 @@
 # From Academia to Industry
 
+[![Build and Deploy Presentation](https://github.com/IndrajeetPatil/academia-to-industry/actions/workflows/build-presentation.yaml/badge.svg)](https://github.com/IndrajeetPatil/academia-to-industry/actions/workflows/build-presentation.yaml)
+
 **A Practical Guide for Making the Transition**
 
 This presentation provides a comprehensive framework for academics seeking to transition into industry careers. Whether you're a PhD student, postdoc, or established researcher, this guide offers practical strategies, actionable frameworks, and real-world insights to help you navigate your career transition successfully.
