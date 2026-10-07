@@ -144,7 +144,7 @@ flowchart TD
 
 :::: {.columns}
 ::: {.column width='60%'}
-**What energizes you in your current work?**
+**What energises you in your current work?**
 
 - Research and discovery
 - Problem-solving challenges
@@ -562,7 +562,7 @@ Focus on attraction TO industry, not escape FROM academia
 
 :::: {.columns}
 ::: {.column width='50%'}
-:::{.callout-note title="🗣️ Behavioral" icon=false}
+:::{.callout-note title="🗣️ Behavioural" icon=false}
 **STAR Method** (Situation, Task, Action, Result)
 
 - Leadership examples
@@ -811,7 +811,7 @@ Start early • Be patient • Stay persistent
 - Real-world impact at scale
 - Diverse problem-solving approaches
 
-**Many companies prioritize:**
+**Many companies prioritise:**
 
 - Social impact and sustainability
 - Employee development and learning
@@ -851,7 +851,7 @@ Start early • Be patient • Stay persistent
 **Better approach:**
 
 - Research 10-15 target companies
-- Customize applications for each role
+- Customise applications for each role
 - Connect with employees first
 - Understand company values
 
