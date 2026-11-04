@@ -58,6 +58,12 @@ jupyter: python3
 
 ::::
 
+::: {.notes}
+Welcome everyone. Transitioning from academia to industry can feel daunting, but remember: you are not starting your career over from scratch. You are pivoting a wealth of research, analytical, and problem-solving skills into a new commercial context.
+
+This guide provides practical, actionable strategies for navigating every stage of the transition: from mindset shifts and skill translation to networking, interview prep, and salary negotiation.
+:::
+
 ## Why This Guide?
 
 :::: {.columns}
@@ -81,6 +87,13 @@ Industry requires different approaches and communication styles
 :::
 :::
 ::::
+
+::: {.notes}
+Frame the necessity of this guide:
+The academic job market has faced structural imbalances for decades. Far more PhDs graduate each year than there are permanent tenure-track professorships available.
+
+Leaving academia is not a failure; it is a healthy, proactive career choice to apply your intellectual capabilities where they are compensated, valued, and positioned for scalable impact.
+:::
 
 ---
 
@@ -123,6 +136,13 @@ flowchart TD
 
 :::
 
+::: {.notes}
+Share personal context:
+Having transitioned from academic cognitive science research into software engineering and data science, I experienced first-hand the disorientation, the learning curve, and ultimately the immense professional satisfaction of working in industry.
+
+This talk crystallises the lessons learned, pitfalls encountered, and strategies that actually work.
+:::
+
 ---
 
 ## What We'll Cover {.smaller}
@@ -136,9 +156,21 @@ flowchart TD
 **Goal:** *Successfully transition from academia to industry with confidence and clarity*
 :::
 
+::: {.notes}
+Walk through the six main topics we will explore today:
+1. Self-Assessment: Uncovering your core motivations and identifying suitable career directions.
+2. Skill Translation: Learning to describe academic work in language that hiring managers understand.
+3. Strategic Networking: Building genuine professional relationships that lead to opportunities.
+4. Application Strategy: Crafting impactful resumes and acing multi-stage interviews.
+5. Common Mistakes: Avoiding imposter syndrome, poor negotiation, and application traps.
+6. Summary Principles: Key mental models for a smooth transition.
+:::
 
 # Self-Assessment {data-section-marker="01"}
 
+::: {.notes}
+Introduce Section 1: Self-Assessment. Before updating your resume or applying for jobs, take time to reflect on what you truly want from your professional life.
+:::
 
 ## Know Your "Why" {.smaller}
 
@@ -170,6 +202,13 @@ flowchart TD
 ```
 :::
 ::::
+
+::: {.notes}
+Explore personal drivers:
+Ask yourself honestly what is pushing you away from academia and what is pulling you towards industry.
+
+Common drivers include geographic stability, competitive compensation, reasonable working hours, collaborative team dynamics, and seeing your work deployed into production rather than waiting years for peer review.
+:::
 
 ---
 
@@ -219,7 +258,19 @@ flowchart TD
 :::
 ::::
 
+::: {.notes}
+Highlight diverse career trajectories for researchers:
+- Quantitative researchers often thrive in Data Science, Machine Learning, and Quantitative Analytics.
+- Methodologists and experimentalists excel in User Experience (UX) Research and Product Management.
+- Computationally intensive researchers can transition into Software Engineering or Data Engineering.
+- Writers and educators find fulfilling roles in Technical Writing, Scientific Communications, and Developer Relations.
+:::
+
 # Skill Translation {data-section-marker="02"}
+
+::: {.notes}
+Introduce Section 2: Skill Translation. One of the greatest barriers academics face is communicating their value in commercial terms.
+:::
 
 ## Your Transferable Skills {.smaller}
 
@@ -233,6 +284,13 @@ flowchart TD
 | Teaching | Knowledge transfer |
 | Project management | Initiative leadership |
 
+::: {.notes}
+Map your core transferable skills:
+You already possess high-demand competencies: breaking down ambiguous problems, formulating testable hypotheses, synthesising vast literatures, conducting statistical analyses, and managing multi-year research projects under tight resource constraints.
+
+Industry values these abilities immensely once they are articulated clearly.
+:::
+
 ## Academic vs. Industry Mindset {.smaller}
 
 | **Aspect** | **Academic World** | **Industry World** |
@@ -242,6 +300,12 @@ flowchart TD
 | **Communication** | Technical, detailed | Clear, actionable |
 | **Collaboration** | Individual expertise | Cross-functional teams |
 | **Risk** | High (breakthrough research) | Calculated (business ROI) |
+
+::: {.notes}
+Contrast academic and industry mindsets:
+- Academia rewards exhaustive depth, perfectionism, individual authorship, and theoretical novelty.
+- Industry prioritises speed of execution, pragmatic 80/20 solutions, cross-functional collaboration, and measurable business impact. Embracing 'good enough to ship' is a critical mindset shift.
+:::
 
 ## Business-Minded Questions {.smaller}
 
@@ -290,6 +354,13 @@ flowchart TD
 [**💡 Idea** → **💰 Revenue?** → **⚡ Feasible?** → **📈 Value?** → **✅ Proceed** or **❌ Pivot**]{style="font-size: 0.8em;"}
 :::
 
+::: {.notes}
+Introduce business-minded thinking:
+When approaching problems in industry, consider commercial implications: Does this feature reduce customer churn? Does this pipeline save infrastructure costs? Will this model improve conversion rates?
+
+Framing your technical choices in terms of return on investment (ROI) immediately sets you apart from other candidates.
+:::
+
 ## The Art of Translation {.smaller}
 
 :::: {.columns}
@@ -320,6 +391,14 @@ flowchart TD
  Academic Skill + Business Context + Impact = Value
 :::
 
+::: {.notes}
+Demonstrate de-jargonising academic language:
+Replace academic vernacular with industry equivalents:
+- 'Published three papers' becomes 'Synthesised complex data into clear stakeholder reports'.
+- 'Principal investigator on a grant' becomes 'Managed a £200k budget and delivered deliverables on schedule'.
+- 'Taught undergraduate lab courses' becomes 'Mentored junior team members and facilitated technical workshops'.
+:::
+
 ## Role-Specific Translations {.smaller}
 
 ::: {style="font-size: 1em;"}
@@ -333,6 +412,12 @@ flowchart TD
 | **Technical Writer** | Academic writing → User documentation<br>Complex concepts → Clear explanations |
 :::
 
+::: {.notes}
+Tailor language to specific target roles:
+When applying for Data Science roles, emphasise statistical rigour, data cleaning, and business metrics.
+
+When targeting Software Engineering, focus on clean architecture, version control, automated testing, and reproducible deployments.
+:::
 
 ## Critical Upskilling Areas {.smaller}
 
@@ -376,7 +461,20 @@ flowchart TD
 :::
 :::
 
+::: {.notes}
+Identify high-impact areas for upskilling:
+Bridge practical technical gaps early:
+- Git and collaborative GitHub workflows (pull requests, code review).
+- Software engineering best practices (modular design, unit testing, CI/CD).
+- Production tooling: SQL, Docker, cloud basics (AWS, Azure, GCP).
+- Business communication and agile project management concepts.
+:::
+
 # Strategic Networking {data-section-marker="03"}
+
+::: {.notes}
+Introduce Section 3: Strategic Networking. How to build meaningful industry connections without feeling uncomfortable or transactional.
+:::
 
 ## Why Networking Matters {.smaller}
 
@@ -412,6 +510,12 @@ flowchart TD
 Source: [The Interview Guys: The Hidden Job Market](https://blog.theinterviewguys.com/the-hidden-job-market/){style="text-decoration: underline;"}
 :::
 
+::: {.notes}
+Explain the critical importance of networking:
+A significant proportion of high-quality tech roles are filled through referrals before being publicly listed.
+
+Referrals allow your application to bypass automated ATS filters and land directly on the hiring manager's desk with a trusted stamp of approval.
+:::
 
 ## Strategic Networking Plan {.smaller}
 
@@ -460,6 +564,12 @@ Source: [The Interview Guys: The Hidden Job Market](https://blog.theinterviewguy
 ::::
 :::
 
+::: {.notes}
+Present a structured networking plan:
+- Start with former lab colleagues and university alumni who have already made the jump to industry.
+- Attend local tech meetups, industry conferences, and user groups.
+- Engage thoughtfully on LinkedIn and contribute to open-source software projects.
+:::
 
 ## LinkedIn Outreach Examples {.smaller}
 
@@ -503,7 +613,20 @@ Source: [The Interview Guys: The Hidden Job Market](https://blog.theinterviewguy
 
 :::
 
+::: {.notes}
+Review LinkedIn outreach principles across all tabs:
+- **Best practices**: Keep messages concise, personalised, and respectful of the recipient's schedule. Acknowledge their work and suggest a brief 15-minute conversation rather than asking for referrals upfront.
+- **Informational interviews**: Use the conversation to listen and learn about daily responsibilities, industry challenges, and team culture. Never treat it as a disguised job pitch.
+- **Value-first approach**: Respond to their content or share relevant domain insights where appropriate; relationships built on mutual respect outlast transactional asks.
+- **Follow-up messages**: Send a concise thank-you within 24 hours referencing a specific detail discussed, and update them weeks later on your progress.
+- **Anti-patterns**: Avoid mass copy-paste messages, attaching an unrequested CV/resume to initial cold messages, or vanishing after receiving advice.
+:::
+
 # Application Strategy {data-section-marker="04"}
+
+::: {.notes}
+Introduce Section 4: Application Strategy. Transforming your academic CV into an effective commercial resume and mastering interview loops.
+:::
 
 ## Crafting Your Story {.smaller}
 
@@ -528,6 +651,13 @@ Source: [The Interview Guys: The Hidden Job Market](https://blog.theinterviewguy
 
 :::{.callout-important title="⚠️ Critical" icon="false"}
 Focus on attraction TO industry, not escape FROM academia
+:::
+
+::: {.notes}
+Crafting your career narrative:
+Prepare a compelling, confident answer to: 'Why are you leaving academia?'
+
+Frame your decision positively around what excites you about industry—scale, pace of innovation, user impact—rather than venting frustrations about academic funding or politics.
 :::
 
 ## Resume Transformation {.smaller}
@@ -556,6 +686,13 @@ Focus on attraction TO industry, not escape FROM academia
 
 :::{style="background-color: #FFF8DC; padding: 10px; border-radius: 15px; text-align: center; margin-top: 15px;"}
 💡 **Pro Tip**: Apply even if you meet 60-70% of requirements!
+:::
+
+::: {.notes}
+Transforming an academic CV into an industry resume:
+- Length: Strictly 1 to 2 pages (not 8 pages listing every conference poster).
+- Structure: Lead with technical skills and commercial impact, followed by concise experience bullets featuring action verbs and measurable metrics.
+- Publications: Summarise into a one-line metric (e.g., 'Author of 8 peer-reviewed publications') rather than pasting full citations.
 :::
 
 ## Interview Types {.smaller}
@@ -591,6 +728,13 @@ Focus on attraction TO industry, not escape FROM academia
 :::
 ::::
 
+::: {.notes}
+Demystify typical industry interview stages:
+- Recruiter Screen (30 mins): Behavioural alignment, salary expectations, role fit.
+- Technical Screen / Coding Challenge: Practical problem solving, data structures, or take-home data analysis.
+- Onsite / Loop: In-depth technical interviews, system design/architecture, and behavioural rounds (using the STAR method).
+:::
+
 ## Common Questions {.smaller}
 
 :::: {.columns}
@@ -619,6 +763,13 @@ Complaining about academic politics
 :::
 ::::
 
+::: {.notes}
+Preparing for common behavioural interview questions:
+Expect questions assessing conflict resolution, handling tight deadlines, prioritising competing demands, and communicating technical findings to non-technical executive stakeholders.
+
+Structure responses with Situation, Task, Action, and Result (STAR).
+:::
+
 ## Timeline Expectations {.smaller}
 
 :::{style="text-align: center; background-color: #E6F3FF; padding: 10px; border-radius: 15px;"}
@@ -638,6 +789,12 @@ Complaining about academic politics
 Start early • Be patient • Stay persistent
 :::
 
+::: {.notes}
+Setting realistic timeline expectations:
+A comprehensive transition typically spans 6 to 12 months from initial self-assessment and upskilling through to onboarding.
+
+Expect rejections during earlier application phases; treat each interview as empirical data to refine your CV, technical explanations, and conversational delivery.
+:::
 
 ## Managing Transition
 
@@ -670,6 +827,13 @@ Start early • Be patient • Stay persistent
 :::
 ::::
 
+::: {.notes}
+Navigating the emotional and psychological transition:
+Recognise that leaving an academic identity can evoke feelings of grief or anxiety about lost prestige.
+
+Give yourself permission to transition, celebrate small milestones, and connect with peer transition support groups.
+:::
+
 ## What You'll Enjoy vs. Miss {.smaller}
 
 :::: {.columns}
@@ -698,7 +862,17 @@ Start early • Be patient • Stay persistent
 :::
 ::::
 
+::: {.notes}
+Reflect on the professional trade-offs highlighted on the slide:
+- Discuss potential advantages: More competitive compensation, structured working hours, and shared team accountability.
+- Discuss potential differences: Shifting focus from self-directed academic research to organisational objectives, and navigating different project timelines.
+:::
+
 # Common Mistakes {data-section-marker="05"}
+
+::: {.notes}
+Introduce Section 5: Common Mistakes. Identifying and avoiding frequent traps that academic candidates fall into.
+:::
 
 ## Underestimating Your Value {.smaller}
 
@@ -736,6 +910,13 @@ Start early • Be patient • Stay persistent
 
 :::{style="background-color: #E6F3FF; padding: 15px; border-radius: 15px; text-align: center; margin-top: 20px;"}
 **💡 Key Insight**: Position yourself as an experienced professional transitioning domains, not a career starter
+:::
+
+::: {.notes}
+Overcoming imposter syndrome and underestimating your value:
+Many academics mistakenly believe that because they lack corporate titles, they are unqualified for anything beyond entry-level internships.
+
+In reality, your years of managing ambiguity, experimental design, and quantitative rigour make you a senior-level analytical thinker.
 :::
 
 ## Poor Salary Negotiation {.smaller}
@@ -781,6 +962,13 @@ Start early • Be patient • Stay persistent
 **Sample Response:** *"Thank you for the offer! I'm excited about the opportunity. Based on my research and experience, I was expecting a range of $X-Y. Could we please discuss the compensation package?"*
 :::
 
+::: {.notes}
+Mastering salary negotiation:
+Research industry compensation benchmarks using levels.fyi and Glassdoor. Understand total compensation: base salary, annual bonus, signing bonus, and equity (RSUs/stock options).
+
+Avoid disclosing current academic stipends or naming a low number prematurely; always negotiate professionally upon receiving an offer.
+:::
+
 ## Industry Misconceptions {.smaller}
 
 :::: {.columns}
@@ -822,6 +1010,13 @@ Start early • Be patient • Stay persistent
 
 :::{style="background-color: #E6F3FF; padding: 15px; border-radius: 15px; text-align: center; margin-top: 15px;"}
 **💡 Reframe**: Industry work offers different but equally intellectually stimulating challenges
+:::
+
+::: {.notes}
+Debunking lingering academic misconceptions:
+Industry work is not intellectually shallow, nor is it populated by uncreative corporate drones.
+
+Some of the world's most cutting-edge research, engineering innovation, and collaborative scientific breakthroughs occur within commercial industry labs and tech companies.
 :::
 
 ## Shotgun Application Strategy {.smaller}
@@ -868,7 +1063,18 @@ Start early • Be patient • Stay persistent
 **💡 Rule of thumb**: Spend 2-3 hours researching and customizing each application rather than sending 20 generic ones
 :::
 
+::: {.notes}
+Avoiding the 'shotgun' application strategy:
+Do not submit 200 generic resumes into online job portals.
+
+A focused campaign targeting 15-20 companies where you have cultivated alumni connections, tailored resumes, and secured internal referrals yields vastly superior results.
+:::
+
 # Summary {data-section-marker="06"}
+
+::: {.notes}
+Introduce Section 6: Summary and core principles for a successful career transition.
+:::
 
 ## Success Principles 
 
@@ -884,6 +1090,14 @@ Start early • Be patient • Stay persistent
 
 :::{style="background-color: #FFFACD; padding: 15px; border-radius: 20px; text-align: center; margin-top: 15px;"}
 Your academic journey has **perfectly prepared** you for this exciting transition!
+:::
+
+::: {.notes}
+Review the core success principles:
+1. Translate your skills into business value and clear metrics.
+2. Build authentic relationships through informational interviewing and community engagement.
+3. Embrace pragmatic execution over academic perfectionism.
+4. Recognise and advocate for your true professional worth.
 :::
 
 ## Questions & Discussion
@@ -915,6 +1129,10 @@ How can we help each other?
 :::
 ::::
 
+::: {.notes}
+Open the session for interactive questions, discussion, and individual guidance from the audience.
+:::
+
 # Thank You {data-section-marker="→"}
 
 Good luck! 😊
@@ -932,8 +1150,12 @@ Check out my other [slide decks](https://www.indrapatil.com/presentations/) on s
 
 <a class="deck-icon-link" href="https://www.linkedin.com/in/indrajeet-patil-ph-d-397865174/" aria-label="LinkedIn"><span class="deck-icon deck-icon-brands-linkedin" aria-hidden="true"></span></a>
 &nbsp;&nbsp;
-<a class="deck-icon-link" href="http://github.com/IndrajeetPatil" aria-label="GitHub"><span class="deck-icon deck-icon-brands-github" aria-hidden="true"></span></a>
+<a class="deck-icon-link" href="https://github.com/IndrajeetPatil" aria-label="GitHub"><span class="deck-icon deck-icon-brands-github" aria-hidden="true"></span></a>
 &nbsp;&nbsp;
 <a class="deck-icon-link" href="mailto:patilindrajeet.science@gmail.com" aria-label="Email"><span class="deck-icon deck-icon-solid-envelope" aria-hidden="true"></span></a>
 
+:::
+
+::: {.notes}
+Thank the audience for their time and engagement, share contact links, and wish them every success in their transition journey.
 :::
