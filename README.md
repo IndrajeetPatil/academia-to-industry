@@ -30,7 +30,7 @@ just install
 
 ```bash
 just help     # Show all available commands
-just install  # Install Python dependencies and the a11y extension
+just install  # Install Python dependencies and Quarto extensions
 just update   # Update Python dependencies
 just render   # Render slides to HTML
 just preview  # Start a live preview with auto-reload
@@ -67,3 +67,7 @@ scroll views. Normal builds omit the axe checker.
 ## Feedback
 
 Feedback and suggestions are welcome in [the issue tracker](https://github.com/IndrajeetPatil/academia-to-industry/issues).
+
+### Read aloud
+
+Requires Quarto 1.11.9 or newer. `just install` installs the [Read Aloud extension](https://github.com/IndrajeetPatil/quarto-read-aloud). Select the speaker icon to hear the current slide’s notes, or the stop icon to cancel. Changing slides also stops speech. Voice availability depends on your browser and operating system.
