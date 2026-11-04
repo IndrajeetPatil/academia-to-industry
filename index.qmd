@@ -817,9 +817,9 @@ Start early • Be patient • Stay persistent
 
 ::: {.notes}
 Setting realistic timeline expectations:
-A typical academic-to-industry transition takes between 3 and 6 months of sustained effort.
+A comprehensive transition typically spans 6 to 12 months from initial self-assessment and upskilling through to onboarding.
 
-Expect rejections early on; treat each interview as empirical data to refine your resume, technical explanations, and conversational delivery.
+Expect rejections during earlier application phases; treat each interview as empirical data to refine your CV, technical explanations, and conversational delivery.
 :::
 
 ## Managing Transition
