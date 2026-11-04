@@ -579,26 +579,12 @@ Present a structured networking plan:
 
 ::: {.panel-tabset}
 
-::: {.notes}
-Review outreach best practices:
-Keep messages concise, personalised, and respectful of the recipient's schedule.
-
-Acknowledge their work, explain your shared background (e.g., fellow PhD alum), and ask for 15 minutes of advice rather than demanding a job referral upfront.
-:::
-
 ## 🤝 Informational Interview
 
 :::{.callout-tip title="✅ Good Example" icon=false}
 *"Hi [Name], I came across your profile while researching data science roles at [Company]. I'm transitioning from academic research in [field] and was impressed by your work on [specific project/post]. I'd love to learn about your experience moving from research to industry. Would you be open to a brief 15-minute call? I'm happy to share insights from my research background that might be relevant to your work."*
 
 **Why it works:** Personal, specific, time-limited, offers value
-:::
-
-::: {.notes}
-Conducting effective informational interviews:
-Use the 15-20 minutes to listen and learn. Ask about their daily responsibilities, industry challenges, team culture, and how they successfully navigated their own transition.
-
-Never treat an informational interview as a disguised job pitch.
 :::
 
 ## 💡 Value-First Approach
@@ -609,26 +595,12 @@ Never treat an informational interview as a disguised job pitch.
 **Why it works:** Responds to their content, offers specific expertise, no immediate ask
 :::
 
-::: {.notes}
-Adopt a value-first networking approach:
-Share interesting articles, offer constructive feedback on public projects, or provide relevant domain insights where appropriate.
-
-Relationships built on mutual intellectual respect outlast transactional requests.
-:::
-
 ## 🔄 Follow-up Message
 
 :::{.callout-note title="✅ Good Example" icon=false}
 *"Thanks for the insightful conversation! As promised, here's the research paper on [topic] we discussed. I found your point about [specific detail] particularly valuable. I'll keep you posted on my transition progress."*
 
 **Why it works:** Shows you listened, delivers promised value, maintains connection
-:::
-
-::: {.notes}
-Crafting thoughtful follow-ups:
-Always send a concise thank-you message within 24 hours.
-
-Reference a specific insight or book recommendation from your conversation, and follow up weeks later to let them know how you implemented their advice.
 :::
 
 ## ❌ What NOT to Do
@@ -642,10 +614,12 @@ Reference a specific insight or book recommendation from your conversation, and 
 :::
 
 ::: {.notes}
-Highlight networking anti-patterns:
-Avoid mass copy-paste messages, attaching an unrequested resume to an initial outreach, or disappearing immediately after receiving help.
-
-Networking is cultivating long-term professional relationships, not collecting LinkedIn connection counts.
+Review LinkedIn outreach principles across all tabs:
+- **Best practices**: Keep messages concise, personalised, and respectful of the recipient's schedule. Acknowledge their work and suggest a brief 15-minute conversation rather than asking for referrals upfront.
+- **Informational interviews**: Use the conversation to listen and learn about daily responsibilities, industry challenges, and team culture. Never treat it as a disguised job pitch.
+- **Value-first approach**: Respond to their content or share relevant domain insights where appropriate; relationships built on mutual respect outlast transactional asks.
+- **Follow-up messages**: Send a concise thank-you within 24 hours referencing a specific detail discussed, and update them weeks later on your progress.
+- **Anti-patterns**: Avoid mass copy-paste messages, attaching an unrequested CV/resume to initial cold messages, or vanishing after receiving advice.
 :::
 
 # Application Strategy {data-section-marker="04"}
