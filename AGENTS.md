@@ -27,7 +27,7 @@ them.
 ## Commands
 
 ```bash
-just install   # Install Python dependencies and the latest a11y extension
+just install   # Install Python dependencies and Quarto extensions
 just update    # Update Python dependencies
 just render    # Render index.qmd to _site/ (run after every change)
 just preview   # Live-reload dev server

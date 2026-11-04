@@ -30,7 +30,7 @@ just install
 
 ```bash
 just help     # Show all available commands
-just install  # Install Python dependencies and the a11y extension
+just install  # Install Python dependencies and Quarto extensions
 just update   # Update Python dependencies
 just render   # Render slides to HTML
 just preview  # Start a live preview with auto-reload
