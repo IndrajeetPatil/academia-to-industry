@@ -88,14 +88,14 @@ Industry requires different approaches and communication styles
 :::
 ::::
 
----
-
 ::: {.notes}
 Frame the necessity of this guide:
 The academic job market has faced structural imbalances for decades. Far more PhDs graduate each year than there are permanent tenure-track professorships available.
 
 Leaving academia is not a failure; it is a healthy, proactive career choice to apply your intellectual capabilities where they are compensated, valued, and positioned for scalable impact.
 :::
+
+---
 
 ## My Journey {#section-1 .smaller}
 
@@ -136,14 +136,14 @@ flowchart TD
 
 :::
 
----
-
 ::: {.notes}
 Share personal context:
 Having transitioned from academic cognitive science research into software engineering and data science, I experienced first-hand the disorientation, the learning curve, and ultimately the immense professional satisfaction of working in industry.
 
 This talk crystallises the lessons learned, pitfalls encountered, and strategies that actually work.
 :::
+
+---
 
 ## What We'll Cover {.smaller}
 
@@ -203,14 +203,14 @@ flowchart TD
 :::
 ::::
 
----
-
 ::: {.notes}
 Explore personal drivers:
 Ask yourself honestly what is pushing you away from academia and what is pulling you towards industry.
 
 Common drivers include geographic stability, competitive compensation, reasonable working hours, collaborative team dynamics, and seeing your work deployed into production rather than waiting years for peer review.
 :::
+
+---
 
 ## Example Pathways {.smaller}
 
@@ -414,7 +414,7 @@ Replace academic vernacular with industry equivalents:
 
 ::: {.notes}
 Tailor language to specific target roles:
-When applying for Data Science roles, emphasise statistical rigor, data cleaning, and business metrics.
+When applying for Data Science roles, emphasise statistical rigour, data cleaning, and business metrics.
 
 When targeting Software Engineering, focus on clean architecture, version control, automated testing, and reproducible deployments.
 :::
@@ -581,7 +581,7 @@ Present a structured networking plan:
 
 ::: {.notes}
 Review outreach best practices:
-Keep messages concise, personalized, and respectful of the recipient's schedule.
+Keep messages concise, personalised, and respectful of the recipient's schedule.
 
 Acknowledge their work, explain your shared background (e.g., fellow PhD alum), and ask for 15 minutes of advice rather than demanding a job referral upfront.
 :::
@@ -756,9 +756,9 @@ Transforming an academic CV into an industry resume:
 
 ::: {.notes}
 Demystify typical industry interview stages:
-- Recruiter Screen (30 mins): Behavioral alignment, salary expectations, role fit.
+- Recruiter Screen (30 mins): Behavioural alignment, salary expectations, role fit.
 - Technical Screen / Coding Challenge: Practical problem solving, data structures, or take-home data analysis.
-- Onsite / Loop: In-depth technical interviews, system design/architecture, and behavioral rounds (using the STAR method).
+- Onsite / Loop: In-depth technical interviews, system design/architecture, and behavioural rounds (using the STAR method).
 :::
 
 ## Common Questions {.smaller}
@@ -790,7 +790,7 @@ Complaining about academic politics
 ::::
 
 ::: {.notes}
-Preparing for common behavioral interview questions:
+Preparing for common behavioural interview questions:
 Expect questions assessing conflict resolution, handling tight deadlines, prioritising competing demands, and communicating technical findings to non-technical executive stakeholders.
 
 Structure responses with Situation, Task, Action, and Result (STAR).
@@ -889,9 +889,9 @@ Give yourself permission to transition, celebrate small milestones, and connect 
 ::::
 
 ::: {.notes}
-Weighing what you will gain versus what you might miss:
-- Gains: Substantially higher compensation, paid overtime/bonuses, clearer boundaries, and collaborative team support.
-- Misses: Total intellectual autonomy to study obscure interests, long academic holidays, and teaching students. Most find the trade-off overwhelmingly positive.
+Reflect on the professional trade-offs highlighted on the slide:
+- Discuss potential advantages: More competitive compensation, structured working hours, and shared team accountability.
+- Discuss potential differences: Shifting focus from self-directed academic research to organisational objectives, and navigating different project timelines.
 :::
 
 # Common Mistakes {data-section-marker="05"}
@@ -942,7 +942,7 @@ Introduce Section 5: Common Mistakes. Identifying and avoiding frequent traps th
 Overcoming imposter syndrome and underestimating your value:
 Many academics mistakenly believe that because they lack corporate titles, they are unqualified for anything beyond entry-level internships.
 
-In reality, your years of managing ambiguity, experimental design, and quantitative rigor make you a senior-level analytical thinker.
+In reality, your years of managing ambiguity, experimental design, and quantitative rigour make you a senior-level analytical thinker.
 :::
 
 ## Poor Salary Negotiation {.smaller}
