@@ -20,7 +20,7 @@ every change.
 - **Spelling and punctuation.** Use British spelling in prose (colour, licence,
   catalogue, artefact) and the Oxford comma in lists of three or more. Leave
   code, identifiers, file names, URLs, quotations, and proper names (`license`
-  in YAML, `.well-known/api-catalog`) as they are.
+  in YAML, `color` in `style.css`) as they are.
 - **Spoken notes.** The read-aloud control speaks the `.notes` content. Write
   complete, audience-facing narration; keep staging cues, private reminders,
   and delivery checklists outside these blocks.
