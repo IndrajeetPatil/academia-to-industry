@@ -25,10 +25,7 @@ every change.
   complete, audience-facing narration; keep staging cues, private reminders,
   and delivery checklists outside these blocks.
 - **Accessibility.** Images must have `fig-alt` text; raw HTML widgets use
-  `role="img"` and `aria-label`. Read
-  [`.agents/skills/check-accessibility/SKILL.md`](.agents/skills/check-accessibility/SKILL.md)
-  before changing markup, styles, widgets, menus or the a11y setup, and for
-  any accessibility audit.
+  `role="img"` and `aria-label`.
 - **Icons.** Icons are HTML spans backed by only the required SVG path data in
   `style.css`; no icon font or Quarto icon extension. When adding one, add only
   its mask data, preserve the source licence attribution, and keep an
