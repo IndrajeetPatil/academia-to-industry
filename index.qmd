@@ -98,21 +98,13 @@ There are more researchers seeking long-term academic posts than there are such 
 :::{style="background-color: #FAFBFC; padding: 30px; border-radius: 15px; border: 2px solid #E1E4E8; margin: 20px 0;"}
 
 :::: {.columns}
-::: {.column width='30%'}
+::: {.column width='35%'}
 **📍 My Journey**
 
-```{mermaid}
-flowchart TD
-    A["<b>Education</b><br/>Physics<br/>(5 years)"] --> B["<b>Research</b><br/>Cognitive Neuroscience/<br/>Social Psychology<br/>(10 years)"]
-    B --> C["<b>Software Engineering</b><br/>Current Role<br/>(&gt; 5 years)"]
-    
-    style A fill:#F0F8FF,stroke:#4169E1,stroke-width:2px,color:#000000
-    style B fill:#F5F0FF,stroke:#8A2BE2,stroke-width:2px,color:#000000
-    style C fill:#F0FFF0,stroke:#228B22,stroke-width:2px,color:#000000
-```
+![](media/my-journey.webp){fig-alt="Flowchart showing career transition from Education in Physics (5 years), to Research in Cognitive Neuroscience and Social Psychology (10 years), to current role in Software Engineering (> 5 years)"}
 :::
 
-::: {.column width='70%'}
+::: {.column width='65%'}
 **🎯 Why I Can Help**
 
 :::{style="font-size: 0.8em; line-height: 1.5; margin-top: 15px;"}
@@ -176,17 +168,7 @@ Before updating a CV or choosing job titles, take time to consider what you want
 :::
 
 ::: {.column width='40%'}
-```{mermaid}
-flowchart TD
-    A[Self-Reflection] --> B[Identify Patterns]
-    B --> C[Match to Roles]
-    C --> D[Career Path]
-    
-    style A fill:#e1f5fe,stroke:#01579b,stroke-width:2px,color:#000000
-    style B fill:#f3e5f5,stroke:#4a148c,stroke-width:2px,color:#000000
-    style C fill:#e8f5e8,stroke:#1b5e20,stroke-width:2px,color:#000000
-    style D fill:#fff3e0,stroke:#e65100,stroke-width:2px,color:#000000
-```
+![](media/know-your-why.webp){fig-alt="Flowchart illustrating the career transition process: Self-Reflection to understand your why, Identify Patterns to recognise strengths, Match to Roles to translate skills to industry, and Career Path for clarity and confidence"}
 :::
 ::::
 
