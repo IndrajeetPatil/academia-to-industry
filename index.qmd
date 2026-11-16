@@ -173,49 +173,7 @@ What is pushing you away from academia, and what is attracting you to another se
 
 ## Example Pathways {.smaller}
 
-:::: {.columns}
-::: {.column width='33%'}
-:::{style="background-color: #E8F5E8; padding: 15px; border-radius: 10px; text-align: center; font-size: 0.8em;"}
-**🔬 The Analyst**
-
-**Reflection:** *"I love diving deep into data and finding patterns"*
-
-**Patterns:** Research methodology, statistical analysis, evidence-based thinking
-
-**Roles:** Data analysis, research, insights generation
-
-**Path:** Data Scientist
-:::
-:::
-
-::: {.column width='33%'}
-:::{style="background-color: #F0F8FF; padding: 15px; border-radius: 10px; text-align: center; font-size: 0.8em;"}
-**👥 The Collaborator**
-
-**Reflection:** *"I get energized by teaching and working with teams"*
-
-**Patterns:** Knowledge sharing, mentoring, cross-functional coordination
-
-**Roles:** Communication, leadership, stakeholder management
-
-**Path:** Product Manager
-:::
-:::
-
-::: {.column width='33%'}
-:::{style="background-color: #FFE4E1; padding: 15px; border-radius: 10px; text-align: center; font-size: 0.8em;"}
-**🚀 The Builder**
-
-**Reflection:** *"I love creating solutions and seeing them implemented"*
-
-**Patterns:** Innovation, hands-on building, practical problem-solving
-
-**Roles:** Technical development, solution architecture
-
-**Path:** R&D Engineer
-:::
-:::
-::::
+![](media/example-pathways.webp){fig-alt="Infographic showing three example career pathways matching personal reflection to industry roles: The Analyst (focus on data and patterns, leading to Data Scientist), The Collaborator (focus on teaching and teamwork, leading to Product Manager), and The Builder (focus on practical solutions, leading to R&D Engineer)"}
 
 ::: {.notes}
 Researchers can move in several directions. Quantitative work can connect with data science and analytics; experimental work with user research; computational work with software or data engineering. Writing and teaching can also support technical communication and developer education. These are possibilities to explore, rather than fixed routes for a particular discipline.
@@ -344,16 +302,7 @@ Translate the substance of an achievement, rather than replacing academic words 
 
 ## Role-Specific Translations {.smaller}
 
-::: {style="font-size: 1em;"}
-| **Role** | **Academic Skill → Industry Translation** |
-|----------|------------------------------------------|
-| **Data Scientist** | Research methodology → Experimental design<br>Statistical analysis → A/B testing & metrics |
-| **Product Manager** | Grant writing → Business cases<br>Research coordination → Cross-functional leadership |
-| **Consultant** | Teaching → Client communication<br>Research findings → Strategic recommendations |
-| **R&D Engineer** | Academic research → Industry R&D projects<br>Publication writing → Technical documentation |
-| **Business Analyst** | Literature review → Market research<br>Data interpretation → Business insights |
-| **Technical Writer** | Academic writing → User documentation<br>Complex concepts → Clear explanations |
-:::
+![](media/role-specific-translations.webp){fig-alt="Matrix infographic illustrating academic skill translations for six industry roles: Data Scientist (experimental design and A/B testing), Product Manager (business cases and cross-functional leadership), Consultant (client communication and strategic recommendations), R&D Engineer (applied industry R&D and technical documentation), Business Analyst (market research and commercial insights), and Technical Writer (user documentation and clear developer explanations)"}
 
 ::: {.notes}
 The emphasis should change with the target role. For data science, statistical reasoning and data quality may be central. For software engineering, collaboration, testing, architecture, and deployment may matter more. Choose examples that show the capabilities the role actually needs.
@@ -361,45 +310,7 @@ The emphasis should change with the target role. For data science, statistical r
 
 ## Critical Upskilling Areas {.smaller}
 
-::: {style="font-size: 0.9em;"}
-:::: {.columns}
-::: {.column width='50%'}
-:::{.callout-important title="Industry Tools & Platforms"}
-
-**Cloud Computing** (Essential for most roles)  
-
-- Choose one: **AWS**, **Azure**, or **GCP**
-- Containerization
-
-**Version Control & Collaboration**  
-
-- Git, GitHub/GitLab workflows
-- Agile development practices
-
-**Industry-Standard Software**  
-
-- Different languages/frameworks than academia
-- Production-ready coding practices
-:::
-:::
-
-::: {.column width='50%'}
-:::{.callout-tip title="AI-Enhanced Productivity"}
-
-**Leverage LLMs for Efficiency**  
-
-- Code generation & debugging assistance
-- Documentation & technical writing
-- Learning new frameworks faster
-
-:::
-:::
-::::
-
-:::{style="background-color: #FFF8DC; padding: 15px; border-radius: 15px; text-align: center; margin-top: 15px;"}
-**💡 Pro Tip**: Start learning industry tools **before** job applications. Hands-on projects demonstrate practical skills to employers.
-:::
-:::
+![](media/critical-upskilling-areas.webp){fig-alt="Editorial infographic detailing critical upskilling areas for transitioning researchers: Industry Tools and Platforms (cloud computing, containerisation, version control, and production engineering) and AI-Enhanced Productivity (accelerated learning, development assistance, and technical communication), with a pro tip emphasizing hands-on projects"}
 
 ::: {.notes}
 Identify practical gaps that would prevent you from doing the work. These might include Git collaboration, automated testing, databases, deployment tools, or communication with non-specialists. A focused project can help you practise those skills and provide concrete evidence of them.
@@ -451,50 +362,7 @@ A conversation can reveal roles, expectations, and opportunities that a job adve
 
 ## Strategic Networking Plan {.smaller}
 
-::: {style="font-size: 0.85em;"}
-:::: {.columns}
-::: {.column width='65%'}
-
-**Phase 1: Map Your Network** 
-
-- Academic colleagues in industry
-- Alumni in target roles
-- Conference connections
-
-**Phase 2: Identify Targets**
-
-- People in desired roles
-- Employees at target companies
-- Industry thought leaders
-
-**Phase 3: Engage Authentically**
-
-- Request informational interviews
-- Attend industry events
-- Offer value before asking
-:::
-
-::: {.column width='35%'}
-<div style="background-color: #FFE4E1; padding: 15px; border-radius: 15px;">
-**❌ Don't**
-
-- Mass LinkedIn requests
-- Immediate job asks
-- Generic outreach
-- One-sided conversations
-</div>
-
-<div style="background-color: #E8F5E8; padding: 15px; border-radius: 15px; margin-top: 15px;">
-**✅ Do**
-
-- Personalised requests
-- Ask for advice
-- Research first
-- Follow up consistently
-</div>
-:::
-::::
-:::
+![](media/strategic-networking-plan.webp){fig-alt="Infographic showing a 3-phase strategic networking progression: Phase 1 (Map Your Network), Phase 2 (Identify Targets), and Phase 3 (Engage Authentically), accompanied by comparison cards detailing What to Avoid (mass messages and immediate job asks) and What to Practise (personalised outreach, asking for advice, and consistent follow-up)"}
 
 ::: {.notes}
 Start with people who share some context: former colleagues, alumni, user groups, or an open source community. Ask about their work and listen to the differences from your own experience. A small number of thoughtful conversations is a manageable starting point.
@@ -502,45 +370,7 @@ Start with people who share some context: former colleagues, alumni, user groups
 
 ## LinkedIn Outreach Examples {.smaller}
 
-:::{style="background-color: #E6F3FF; padding: 15px; border-radius: 15px; text-align: center; margin-bottom: 20px;"}
-**💡 How to bring value to your networking conversations**
-:::
-
-::: {.panel-tabset}
-
-## 🤝 Informational Interview
-
-:::{.callout-tip title="✅ Good Example" icon=false}
-*"Hi [Name], I came across your profile while researching data science roles at [Company]. I'm transitioning from academic research in [field] and was impressed by your work on [specific project/post]. I'd love to learn about your experience moving from research to industry. Would you be open to a brief 15-minute call? I'm happy to share insights from my research background that might be relevant to your work."*
-
-**Why it works:** Personal, specific, time-limited, offers value
-:::
-
-## 💡 Value-First Approach
-
-:::{.callout-tip title="✅ Good Example" icon=false}
-*"Hi [Name], I noticed your recent post about challenges in [specific area]. In my PhD research, I tackled a similar problem using [method/approach]. I published findings that might be relevant - would you find it useful if I shared the key insights? Always happy to connect with fellow [industry] professionals."*
-
-**Why it works:** Responds to their content, offers specific expertise, no immediate ask
-:::
-
-## 🔄 Follow-up Message
-
-:::{.callout-note title="✅ Good Example" icon=false}
-*"Thanks for the insightful conversation! As promised, here's the research paper on [topic] we discussed. I found your point about [specific detail] particularly valuable. I'll keep you posted on my transition progress."*
-
-**Why it works:** Shows you listened, delivers promised value, maintains connection
-:::
-
-## ❌ What NOT to Do
-
-:::{.callout-caution title="❌ Avoid: Generic Requests" icon=false}
-*"Hi, I'm looking for job opportunities in data science. Can we connect?"*
-
-**Problems:** No personalization, immediate ask, no value offered, shows no research about them
-:::
-
-:::
+![](media/linkedin-outreach-examples.webp){fig-alt="Editorial infographic presenting four LinkedIn outreach templates and patterns without tabs: Informational Interview (personal, specific, and offering reciprocal value), Value-First Approach (engaging with content and offering domain insights), Thoughtful Follow-Up (delivering promised resources and maintaining contact), and What to Avoid (generic pitches and immediate referral requests)"}
 
 ::: {.notes}
 Keep an initial message concise, specific, and respectful of the other person's time. An informational conversation is a chance to learn, not a disguised demand for a referral. Thank the person afterwards and follow up when you have a meaningful update. Mass messages and unrequested attachments usually make the exchange less useful.
@@ -684,22 +514,7 @@ Behavioural questions often ask about conflict, deadlines, priorities, or commun
 
 ## Timeline Expectations {.smaller}
 
-:::{style="text-align: center; background-color: #E6F3FF; padding: 10px; border-radius: 15px;"}
-**Typical Timeline: 6-12 months**
-:::
-
-:::{style="background-color: #F0FFF0; padding: 15px; border-radius: 15px;"}
-**📅 Timeline**
-
-**Months 1-3:** Research & Skill Development  
-**Months 4-6:** Networking & Applications  
-**Months 7-9:** Interviews & Negotiations  
-**Months 10-12:** Transition & Onboarding
-:::
-
-:::{.callout-tip title="🎯 Success Mantra" icon=false}
-Start early • Be patient • Stay persistent
-:::
+![](media/timeline-expectations.webp){fig-alt="Roadmap infographic illustrating a typical 6 to 12 month transition timeline across four sequential phases: Months 1 to 3 for Research and Skill Audit, Months 4 to 6 for Networking and Applications, Months 7 to 9 for Interviews and Negotiations, and Months 10 to 12 for Transition and Onboarding, ending with the Success Mantra: Start early, be patient, and stay persistent"}
 
 ::: {.notes}
 Allow time for reflection, preparation, applications, and the eventual move. The six-to-twelve-month range on this slide is a planning illustration, not a deadline for success. Use feedback from interviews to refine your examples and identify what needs more preparation.
@@ -780,41 +595,7 @@ Several recurring mistakes can make the transition harder. Recognising them earl
 
 ## Underestimating Your Value {.smaller}
 
-:::{style="background-color: #FFE4B5; padding: 20px; border-radius: 15px; text-align: center; margin-bottom: 20px;"}
-**🚨 Critical Reality: LLMs are reducing opportunities for true juniors**
-:::
-
-:::: {.columns}
-::: {.column width='60%'}
-:::{style="background-color: #FFF0F5; padding: 15px; border-radius: 10px; font-size: 0.9em;"}
-**The Changing Landscape**
-
-- Entry-level coding → AI automated
-- Basic analysis → LLMs handle it
-- Routine research → AI-assisted
-- Simple docs → Auto-generated
-
-**Result:** Fewer true beginner roles
-:::
-:::
-
-::: {.column width='40%'}
-:::{style="background-color: #E8F5E8; padding: 15px; border-radius: 10px; font-size: 0.9em;"}
-**You Are NOT a Junior**
-
-- PhD/PostDoc = 5-10+ years experience
-- Advanced problem-solving
-- Independent research capability
-- Project leadership experience
-
-**You compete at mid-level**
-:::
-:::
-::::
-
-:::{style="background-color: #E6F3FF; padding: 15px; border-radius: 15px; text-align: center; margin-top: 20px;"}
-**💡 Key Insight**: Position yourself as an experienced professional transitioning domains, not a career starter
-:::
+![](media/underestimating-your-value.webp){fig-alt="Editorial infographic contrasting AI automation with advanced academic capabilities: top alert highlights AI reducing true junior roles, left card shows the changing landscape with automated entry-level coding and analysis, right card emphasises that researchers compete at mid-to-senior levels with 5 to 10 plus years of deep experience, and bottom banner advises positioning oneself as an experienced professional transitioning domains"}
 
 ::: {.notes}
 Do not assume that the absence of an industry title makes all of your experience entry-level. Research may have given you substantial responsibility and analytical depth. Equally, assess any practical gaps honestly and choose a role that fits the evidence of what you can do.
