@@ -173,49 +173,7 @@ What is pushing you away from academia, and what is attracting you to another se
 
 ## Example Pathways {.smaller}
 
-:::: {.columns}
-::: {.column width='33%'}
-:::{style="background-color: #E8F5E8; padding: 15px; border-radius: 10px; text-align: center; font-size: 0.8em;"}
-**🔬 The Analyst**
-
-**Reflection:** *"I love diving deep into data and finding patterns"*
-
-**Patterns:** Research methodology, statistical analysis, evidence-based thinking
-
-**Roles:** Data analysis, research, insights generation
-
-**Path:** Data Scientist
-:::
-:::
-
-::: {.column width='33%'}
-:::{style="background-color: #F0F8FF; padding: 15px; border-radius: 10px; text-align: center; font-size: 0.8em;"}
-**👥 The Collaborator**
-
-**Reflection:** *"I get energized by teaching and working with teams"*
-
-**Patterns:** Knowledge sharing, mentoring, cross-functional coordination
-
-**Roles:** Communication, leadership, stakeholder management
-
-**Path:** Product Manager
-:::
-:::
-
-::: {.column width='33%'}
-:::{style="background-color: #FFE4E1; padding: 15px; border-radius: 10px; text-align: center; font-size: 0.8em;"}
-**🚀 The Builder**
-
-**Reflection:** *"I love creating solutions and seeing them implemented"*
-
-**Patterns:** Innovation, hands-on building, practical problem-solving
-
-**Roles:** Technical development, solution architecture
-
-**Path:** R&D Engineer
-:::
-:::
-::::
+![](media/example-pathways.webp){fig-alt="Infographic showing three example career pathways matching personal reflection to industry roles: The Analyst (focus on data and patterns, leading to Data Scientist), The Collaborator (focus on teaching and teamwork, leading to Product Manager), and The Builder (focus on practical solutions, leading to R&D Engineer)"}
 
 ::: {.notes}
 Researchers can move in several directions. Quantitative work can connect with data science and analytics; experimental work with user research; computational work with software or data engineering. Writing and teaching can also support technical communication and developer education. These are possibilities to explore, rather than fixed routes for a particular discipline.
@@ -684,22 +642,7 @@ Behavioural questions often ask about conflict, deadlines, priorities, or commun
 
 ## Timeline Expectations {.smaller}
 
-:::{style="text-align: center; background-color: #E6F3FF; padding: 10px; border-radius: 15px;"}
-**Typical Timeline: 6-12 months**
-:::
-
-:::{style="background-color: #F0FFF0; padding: 15px; border-radius: 15px;"}
-**📅 Timeline**
-
-**Months 1-3:** Research & Skill Development  
-**Months 4-6:** Networking & Applications  
-**Months 7-9:** Interviews & Negotiations  
-**Months 10-12:** Transition & Onboarding
-:::
-
-:::{.callout-tip title="🎯 Success Mantra" icon=false}
-Start early • Be patient • Stay persistent
-:::
+![](media/timeline-expectations.webp){fig-alt="Roadmap infographic illustrating a typical 6 to 12 month transition timeline across four sequential phases: Months 1 to 3 for Research and Skill Audit, Months 4 to 6 for Networking and Applications, Months 7 to 9 for Interviews and Negotiations, and Months 10 to 12 for Transition and Onboarding, ending with the Success Mantra: Start early, be patient, and stay persistent"}
 
 ::: {.notes}
 Allow time for reflection, preparation, applications, and the eventual move. The six-to-twelve-month range on this slide is a planning illustration, not a deadline for success. Use feedback from interviews to refine your examples and identify what needs more preparation.
@@ -780,41 +723,7 @@ Several recurring mistakes can make the transition harder. Recognising them earl
 
 ## Underestimating Your Value {.smaller}
 
-:::{style="background-color: #FFE4B5; padding: 20px; border-radius: 15px; text-align: center; margin-bottom: 20px;"}
-**🚨 Critical Reality: LLMs are reducing opportunities for true juniors**
-:::
-
-:::: {.columns}
-::: {.column width='60%'}
-:::{style="background-color: #FFF0F5; padding: 15px; border-radius: 10px; font-size: 0.9em;"}
-**The Changing Landscape**
-
-- Entry-level coding → AI automated
-- Basic analysis → LLMs handle it
-- Routine research → AI-assisted
-- Simple docs → Auto-generated
-
-**Result:** Fewer true beginner roles
-:::
-:::
-
-::: {.column width='40%'}
-:::{style="background-color: #E8F5E8; padding: 15px; border-radius: 10px; font-size: 0.9em;"}
-**You Are NOT a Junior**
-
-- PhD/PostDoc = 5-10+ years experience
-- Advanced problem-solving
-- Independent research capability
-- Project leadership experience
-
-**You compete at mid-level**
-:::
-:::
-::::
-
-:::{style="background-color: #E6F3FF; padding: 15px; border-radius: 15px; text-align: center; margin-top: 20px;"}
-**💡 Key Insight**: Position yourself as an experienced professional transitioning domains, not a career starter
-:::
+![](media/underestimating-your-value.webp){fig-alt="Editorial infographic contrasting AI automation with advanced academic capabilities: top alert highlights AI reducing true junior roles, left card shows the changing landscape with automated entry-level coding and analysis, right card emphasises that researchers compete at mid-to-senior levels with 5 to 10 plus years of deep experience, and bottom banner advises positioning oneself as an experienced professional transitioning domains"}
 
 ::: {.notes}
 Do not assume that the absence of an industry title makes all of your experience entry-level. Research may have given you substantial responsibility and analytical depth. Equally, assess any practical gaps honestly and choose a role that fits the evidence of what you can do.
