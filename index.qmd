@@ -95,30 +95,23 @@ There are more researchers seeking long-term academic posts than there are such 
 
 ## My Journey {#section-1 .smaller}
 
-:::{style="background-color: #FAFBFC; padding: 30px; border-radius: 15px; border: 2px solid #E1E4E8; margin: 20px 0;"}
+:::{style="background-color: #fffdf8; padding: 20px; border-radius: 11px; border: 1px solid rgba(16, 42, 67, 0.2); box-shadow: 6px 6px 0 rgba(16, 42, 67, 0.12); margin: 15px 0;"}
 
 :::: {.columns}
-::: {.column width='35%'}
+::: {.column width='50%'}
 **📍 My Journey**
 
 ![](media/my-journey.webp){fig-alt="Flowchart showing career transition from Education in Physics (5 years), to Research in Cognitive Neuroscience and Social Psychology (10 years), to current role in Software Engineering (> 5 years)"}
 :::
 
-::: {.column width='65%'}
+::: {.column width='50%'}
 **🎯 Why I Can Help**
 
-:::{style="font-size: 0.8em; line-height: 1.5; margin-top: 15px;"}
-✅ **Multiple career pivots** → Navigated two major field changes  
-✅ **Academic depth** → Understand research mindset & culture  
-✅ **Industry reality** → Living the tech world daily  
-✅ **Bridge builder** → Translate academic ↔ business worlds  
-✅ **Fresh experience** → Recent transition, remember struggles  
-✅ **Practical insights** → Lived networking & interview process
-:::
+![](media/why-i-can-help.webp){fig-alt="Infographic highlighting four key strengths: Academic Depth (understands researcher mindset and culture), Industry Reality (lives the tech world daily), Bridge Builder (translates research rigour to business value), and Practical Insights (navigated career pivots and interview hurdles)"}
 :::
 ::::
 
-:::{style="background-color: #E8F4FD; padding: 20px; border-radius: 10px; margin-top: 25px; text-align: center;"}
+:::{style="background-color: #e2e9ff; padding: 12px; border-radius: 11px; margin-top: 15px; text-align: center; border: 1px solid rgba(16, 42, 67, 0.15);"}
 **💡 My goal:** Sharing actionable insights from experience
 :::
 
