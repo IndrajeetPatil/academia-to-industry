@@ -11,4 +11,7 @@ project:
     - .well-known/llms.txt
     - .well-known/llms-full.txt
     - media/social-media-card.webp
+    - media/my-journey.webp
+    - media/know-your-why.webp
+    - media/why-i-can-help.webp
     - media/fonts/**

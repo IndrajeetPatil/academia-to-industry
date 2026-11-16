@@ -405,15 +405,8 @@ body,
 }
 
 .reveal .cell-output-display,
-.reveal figure,
-.reveal .mermaid {
+.reveal figure {
   max-width: 100%;
-}
-
-.reveal .mermaid svg,
-.reveal svg.mermaid-js {
-  max-width: 100% !important;
-  max-height: 430px !important;
 }
 
 .reveal code {
