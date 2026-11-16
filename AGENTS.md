@@ -30,8 +30,6 @@ every change.
   `style.css`; no icon font or Quarto icon extension. When adding one, add only
   its mask data, preserve the source licence attribution, and keep an
   accessible label where the icon conveys meaning.
-- **Mermaid.** Keep diagrams as Mermaid source; do not replace them with
-  pre-rendered SVGs to shrink the bundle.
 - **No code execution.** The deck has no executable code chunks; code blocks
   are display-only. Do not add executable chunks unless the deck genuinely
   needs computed output.
