@@ -9,34 +9,68 @@ every change.
 
 - **Single-file deck.** All slides live in `index.qmd`; do not split it. Follow
   the layout patterns of neighbouring slides.
+
 - **Design specification.** The visual design follows [DESIGN.md](DESIGN.md);
   respect it when creating or modifying slides, components, styling, colours,
   and typography. Keep the theme `simple` and the format `revealjs`; restyle
   through `style.css`. Inline `style` backgrounds on fenced divs reuse colours
   already defined in `DESIGN.md` and `index.qmd`; do not invent new ones. New
   widgets follow the naming patterns already in `style.css`.
+
+- **Typography.** `Plus Jakarta Sans` for headings and display titles, `Manrope`
+  for body text, and `IBM Plex Mono` for code snippets, metadata, and slide
+  numbers. All fonts are bundled locally as WOFF2 files in `media/fonts/` with
+  their OFL licences for offline presentation without Google Fonts requests.
+
+- **Callouts and admonitions.** Quarto callouts are restyled through `style.css`
+  to match the archival field-notebook card aesthetic: 11px border radius, 6px
+  offset shadow, cream card background, 5px solid left accent stripe matching
+  the palette, tinted header in bold Plus Jakarta Sans, and palette-matched SVG
+  mask icons using `currentColor`. Do not use default Quarto/Bootstrap styling.
+
+- **Illustrations and canvas sizing.** Standalone infographics are 16:9 WebP
+  assets (`1376x768`) that maximize the slide canvas (`max-height: 560px`,
+  `width: 100%`) without overflow, ensuring high visual clarity. Register all
+  new visual assets under `resources:` in `_quarto.yml`.
+
+- **No emoji clutter.** Do not use decorative emojis in slide titles, headings,
+  callouts, card headers, or bullet points; maintain a clean, mature editorial
+  aesthetic.
+
+- **No repetition on the same slide.** Avoid repeating information or phrasing
+  twice on the same slide: do not echo the slide title in child card headers,
+  duplicate headings already rendered within embedded infographics, or restate
+  column takeaways in bottom summary banners.
+
 - **Sources.** Every factual claim has a source citation at the bottom of its
   slide in a small-font centred div. Keep this pattern.
+
 - **Spelling and punctuation.** Use British spelling in prose (colour, licence,
-  catalogue, artefact) and the Oxford comma in lists of three or more. Leave
-  code, identifiers, file names, URLs, quotations, and proper names (`license`
-  in YAML, `color` in `style.css`) as they are.
+  catalogue, artefact, customising) and the Oxford comma in lists of three or
+  more. Leave code, identifiers, file names, URLs, quotations, and proper names
+  (`license` in YAML, `color` in `style.css`) as they are.
+
 - **Spoken notes.** The read-aloud control speaks the `.notes` content. Write
   complete, audience-facing narration; keep staging cues, private reminders,
   and delivery checklists outside these blocks.
+
 - **Accessibility.** Images must have `fig-alt` text; raw HTML widgets use
   `role="img"` and `aria-label`.
+
 - **Icons.** Icons are HTML spans backed by only the required SVG path data in
   `style.css`; no icon font or Quarto icon extension. When adding one, add only
   its mask data, preserve the source licence attribution, and keep an
   accessible label where the icon conveys meaning.
+
 - **No code execution.** The deck has no executable code chunks; code blocks
   are display-only. Do not add executable chunks unless the deck genuinely
   needs computed output.
+
 - **Python dependencies.** The deck declares `jupyter: python3`; the virtualenv
-  only satisfies Quarto's engine. Depend only on `ipykernel`, `nbclient` and
+  only satisfies Quarto's engine. Depend only on `ipykernel`, `nbclient`, and
   `pyyaml`. Do not add the `jupyter` metapackage: it pulls in JupyterLab and
   Notebook and only attracts irrelevant security alerts.
+
 - **Discoverability files.** Update `meta-tags.html` when the title,
   description, or social card changes, and `llms.txt` / `llms-full.txt` (and
   their `.well-known/` mirrors) when the content changes significantly.
