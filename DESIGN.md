@@ -3,7 +3,7 @@ version: alpha
 name: From Academia to Industry
 description: >-
   Field notebook editorial presentation design: warm paper canvas, deep navy
-  ink, editorial coral, amber gold, and deep teal accents, Fraunces serif
+  ink, editorial coral, amber gold, and deep teal accents, Plus Jakarta Sans
   headings with triple gradient underlines, and structured cards.
 colors:
   primary: "#102a43"
@@ -27,11 +27,11 @@ colors:
   shadow: "rgba(16, 42, 67, 0.12)"
 typography:
   display:
-    fontFamily: Fraunces, Georgia, serif
+    fontFamily: Plus Jakarta Sans, Manrope, sans-serif
     fontSize: 2.7em
     fontWeight: 800
   heading:
-    fontFamily: Fraunces, Georgia, serif
+    fontFamily: Plus Jakarta Sans, Manrope, sans-serif
     fontSize: 1.5em
     fontWeight: 700
   body:
@@ -101,20 +101,34 @@ The presentation format is Quarto RevealJS (`theme: simple`). Custom styles are 
 
 ## Typography
 
-- **Headings:** `Fraunces` variable serif (`weight: 700-800`), providing literary weight and clear editorial hierarchy.
+- **Headings:** `Plus Jakarta Sans` geometric sans-serif (`weight: 700-800`), providing crisp modern authority and clear editorial hierarchy.
 - **Body:** `Manrope` sans-serif (`weight: 500`), clean and legible at 34px base slide scale.
 - **Code & Metadata:** `IBM Plex Mono` for code snippets, slide footers, and table headers.
 
 ## Layout & Components
 
-- **Cover Slide:** Editorial two-column grid pairing a large Fraunces title with a tilted, framed polaroid-style visual art card (`transform: rotate(1.5deg)` with a hard 13px coral shadow).
+- **Cover Slide:** Editorial two-column grid pairing a large Plus Jakarta Sans title with a tilted, framed polaroid-style visual art card (`transform: rotate(1.5deg)` with a hard 13px coral shadow).
+
 - **Section Headers:** Full-bleed deep navy canvas (`#102a43`) with diagonal coral banner accents and large semi-transparent section numerals.
-- **Cards & Callouts:** Cream card containers with 1px border (`rgba(16, 42, 67, 0.2)`), 11px border radius, and hard offset shadows (`6px 6px 0 rgba(16, 42, 67, 0.12)`).
+
+- **Cards & Callouts:** Cream card containers with 1px border (`rgba(16, 42, 67, 0.2)`), 11px border radius, and hard offset shadows (`6px 6px 0 rgba(16, 42, 67, 0.12)`). Admonitions and callouts feature a 5px accent border stripe, tinted header with Plus Jakarta Sans title typography, and palette-matched SVG iconography.
+
+- **Standalone Infographics:** 16:9 WebP illustrations (`1376x768`) that scale up to fill available slide canvas space (`max-height: 560px`, `width: 100%`) with `object-fit: contain`, keeping visual hierarchies prominent and readable.
+
 - **Agenda Grid:** Two-column numbered cards (`01`, `02`, `03`, `04`) with monospace coral numerals.
 
 ## Do's and Don'ts
 
 - **Do** retain `theme: simple` in `index.qmd` front matter.
+
 - **Do** reuse the established CSS variables (`--field-coral`, `--field-teal`, etc.) rather than introducing raw hex values.
+
 - **Do** maintain the 11px border-radius and hard offset box-shadow aesthetic for new cards.
-- **Don't** introduce high-saturation neon colors or pure black text that breaks the warm field-notebook palette.
+
+- **Do** maximise canvas space for standalone infographics (`max-height: 560px`, `width: 100%`) so diagrams and text remain prominent and legible.
+
+- **Don't** introduce high-saturation neon colours or pure black text that breaks the warm field-notebook palette.
+
+- **Don't** use decorative emojis in slide headings, callout titles, card headers, or bullet points.
+
+- **Don't** repeat information or phrasing twice on the same slide (such as echoing slide titles in card headers, duplicating infographic headings in raw markdown, or echoing column takeaways in bottom summary banners).
