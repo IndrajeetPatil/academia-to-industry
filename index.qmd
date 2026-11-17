@@ -99,20 +99,16 @@ There are more researchers seeking long-term academic posts than there are such 
 
 :::: {.columns}
 ::: {.column width='50%'}
-**📍 My Journey**
-
 ![](media/my-journey.webp){fig-alt="Flowchart showing career transition from Education in Physics (5 years), to Research in Cognitive Neuroscience and Social Psychology (10 years), to current role in Software Engineering (> 5 years)"}
 :::
 
 ::: {.column width='50%'}
-**🎯 Why I Can Help**
-
 ![](media/why-i-can-help.webp){fig-alt="Infographic highlighting four key strengths: Academic Depth (understands researcher mindset and culture), Industry Reality (lives the tech world daily), Bridge Builder (translates research rigour to business value), and Practical Insights (navigated career pivots and interview hurdles)"}
 :::
 ::::
 
 :::{style="background-color: #e2e9ff; padding: 12px; border-radius: 11px; margin-top: 15px; text-align: center; border: 1px solid rgba(16, 42, 67, 0.15);"}
-**💡 My goal:** Sharing actionable insights from experience
+**My goal:** Sharing actionable insights from experience
 :::
 
 :::
@@ -217,50 +213,7 @@ Academic and commercial environments often reward different things. A business p
 
 ## Business-Minded Questions {.smaller}
 
-:::{style="text-align: center; background-color: #E6F3FF; padding: 20px; border-radius: 20px; margin-bottom: 20px;"}
-**🎯 Every idea in industry must answer these fundamental questions**
-:::
-
-:::: {.columns}
-::: {.column width='35%'}
-:::{.callout-important title="💰 Revenue Impact" icon=false}
-
-- Will this generate revenue?
-- How much investment is required?
-- What's the expected ROI?
-- Who pays for this?
-
-:::
-:::
-
-::: {.column width='30%'}
-:::{.callout-note title="⚡ Feasibility" icon=false}
-
-- Can we actually build this?
-- Do we have the resources?
-- What are the risks?
-- How long will it take?
-
-:::
-:::
-
-::: {.column width='35%'}
-:::{.callout-tip title="📈 Business Value" icon=false}
-
-- Does this solve a real problem?
-- How many users will benefit?
-- Will customers pay for this?
-- Does it align with strategy?
-
-:::
-:::
-::::
-
-:::{style="background-color: #F8F9FA; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;"}
-**🔄 Decision Framework**
-
-[**💡 Idea** → **💰 Revenue?** → **⚡ Feasible?** → **📈 Value?** → **✅ Proceed** or **❌ Pivot**]{style="font-size: 0.8em;"}
-:::
+![](media/business-minded-questions.webp){fig-alt="Editorial infographic detailing the core business viability inquiry across three evaluation pillars: Revenue Impact assessing revenue generation, required investment, ROI, and payment sources; Feasibility and Scale evaluating practical buildability, resources, technical risks, and realistic delivery timelines; and Business Value examining problem severity, affected user volume, willingness to pay, and strategic alignment, anchored by a Decision Framework pipeline from proposal ingestion through multi-angle evaluation to proceeding, refining, or pivoting"}
 
 ::: {.notes}
 Connect a technical decision with the problem it solves. Does it reduce a cost, improve an experience, or save time? Describing that link helps another team understand why your work matters, without assuming they share your research background.
@@ -268,33 +221,7 @@ Connect a technical decision with the problem it solves. Does it reduce a cost, 
 
 ## The Art of Translation {.smaller}
 
-:::: {.columns}
-::: {.column width='50%'}
-:::{.callout-caution title="❌ Academic Language" icon=false}
-*"Investigated variables X and Y using statistical modeling"*
-
-**Problems:**
-
-- Too technical
-- No business impact
-:::
-:::
-
-::: {.column width='50%'}
-:::{.callout-tip title="✅ Business Language" icon=false}
-*"Analyzed customer data, leading to 15% retention improvement"*
-
-**Strengths:**
-
-- Clear business impact
-- Quantified results
-:::
-:::
-::::
-
-:::{style="background-color: #FFFACD; padding: 15px; border-radius: 20px; text-align: center; margin-top: 15px;"}
- Academic Skill + Business Context + Impact = Value
-:::
+![](media/the-art-of-translation.webp){fig-alt="Editorial infographic contrasting Academic Framing with Business Framing: academic phrasing focusing on technical processes over outcomes is compared against business framing quantifying customer retention improvements and alignment with commercial goals, anchored by the translation formula that academic rigour combined with business context and measurable results yields demonstrable value"}
 
 ::: {.notes}
 Translate the substance of an achievement, rather than replacing academic words with business jargon. A paper may demonstrate clear communication of complex evidence. A grant may involve budget and project responsibility, and teaching may involve mentoring. Use only responsibilities and outcomes that accurately describe your own experience.
@@ -324,33 +251,7 @@ Networking is a way to learn about unfamiliar work and build professional relati
 
 ## Why Networking Matters {.smaller}
 
-:::{style="text-align: center; background-color: #FFE4B5; padding: 20px; border-radius: 15px; margin-bottom: 20px;"}
-**70% of jobs are never posted publicly**
-:::
-
-:::: {.columns}
-::: {.column width='60%'}
-:::{style="background-color: #F0F8FF; padding: 15px; border-radius: 10px; font-size: 0.9em;"}
-**The Hidden Job Market**
-
-- Companies hire through referrals first
-- Positions filled before posting
-- Internal candidate recommendations
-- Networking events and connections
-:::
-:::
-
-::: {.column width='40%'}
-:::{style="background-color: #E8F5E8; padding: 15px; border-radius: 10px; font-size: 0.9em;"}
-**Why Networking Works**
-
-- Inside knowledge of roles
-- Referrals get noticed
-- Learn company culture
-- Skip the application pile
-:::
-:::
-::::
+![](media/why-networking-matters.webp){fig-alt="Editorial infographic illustrating the hidden job market where 70 percent of positions are filled via networking and referrals rather than public job boards, highlighting referral advantages including inside knowledge and prioritised review"}
 
 :::{style="font-size: 0.6em; text-align: center; margin-top: 15px;"}
 Source: [The Interview Guys: The Hidden Job Market](https://blog.theinterviewguys.com/the-hidden-job-market/){style="text-decoration: underline;"}
@@ -384,28 +285,7 @@ The application stage turns that preparation into a clear account of why you fit
 
 ## Crafting Your Story {.smaller}
 
-:::{style="background-color: #F0F8FF; padding: 15px; border-radius: 20px; text-align: center;"}
-**📖 Four-Part Structure**
-:::
-
-:::: {.columns}
-::: {.column width='50%'}
-**1. Context** → Academic background  
-**2. Catalyst** → Why changing  
-**3. Connection** → Skills transfer  
-**4. Commitment** → Industry dedication
-:::
-
-::: {.column width='50%'}
-:::{.callout-tip title="Example"}
-*"After researching user behaviour, I'm excited to improve real-world digital experiences using my statistical expertise."*
-:::
-:::
-::::
-
-:::{.callout-important title="⚠️ Critical" icon="false"}
-Focus on attraction TO industry, not escape FROM academia
-:::
+![](media/crafting-your-story.webp){fig-alt="Editorial infographic outlining the four-part interview narrative framework: sequential stages of Context establishing academic research foundation, Catalyst explaining the motivation to pivot, Connection bridging transferable technical skills to product needs, and Commitment demonstrating long-term industry dedication, accompanied by a real-world story example and the guiding principle to focus on attraction to industry rather than escape from academia"}
 
 ::: {.notes}
 Prepare a positive explanation of the move. What attracts you to this work, and how does your experience connect with it? A clear answer gives the interviewer a direction to explore instead of leaving them to infer your motivation from the fact that you are leaving academia.
@@ -413,31 +293,7 @@ Prepare a positive explanation of the move. What attracts you to this work, and 
 
 ## Resume Transformation {.smaller}
 
-:::: {.columns}
-::: {.column width='50%'}
-:::{.callout-caution title="🗑️ Remove" icon=false}
-
-- Publication lists (retain key ones for R&D positions)
-- Conference presentations
-- Teaching responsibilities
-- Academic honors
-:::
-:::
-
-::: {.column width='50%'}
-:::{.callout-tip title="✅ Add" icon=false}
-
-- Business impact metrics
-- Technical skills/tools
-- Project leadership
-- Cross-functional collaboration
-:::
-:::
-::::
-
-:::{style="background-color: #FFF8DC; padding: 10px; border-radius: 15px; text-align: center; margin-top: 15px;"}
-💡 **Pro Tip**: Apply even if you meet 60-70% of requirements!
-:::
+![](media/resume-transformation.webp){fig-alt="Editorial infographic contrasting Academic CV elements to minimise or remove such as exhaustive publications and conference lists with Industry Resume priorities including quantified business impact, technical tools, and project leadership, alongside a pro tip advising applying when meeting 60 to 70 percent of requirements"}
 
 ::: {.notes}
 A concise industry CV should make the most relevant experience easy to find. Lead with useful skills and concrete outcomes, and reduce material that does not help assess the role. Publications can be summarised when the full bibliography is less relevant than the work it demonstrates.
@@ -445,36 +301,7 @@ A concise industry CV should make the most relevant experience easy to find. Lea
 
 ## Interview Types {.smaller}
 
-:::: {.columns}
-::: {.column width='50%'}
-:::{.callout-note title="🗣️ Behavioural" icon=false}
-**STAR Method** (Situation, Task, Action, Result)
-
-- Leadership examples
-- Conflict resolution
-:::
-
-:::{.callout-note title="🧠 Technical" icon=false}
-
-- Domain knowledge
-- Problem-solving approach
-:::
-:::
-
-::: {.column width='50%'}
-:::{.callout-note title="📊 Case Study" icon=false}
-
-- Business scenario analysis
-- Strategic recommendations
-:::
-
-:::{.callout-note title="🤝 Culture Fit" icon=false}
-
-- Team collaboration
-- Values alignment
-:::
-:::
-::::
+![](media/interview-types.webp){fig-alt="Four-quadrant infographic detailing the core industry interview formats: Behavioural assessed via the STAR method, Technical focusing on depth and domain knowledge, Case Study testing business scenario analysis, and Culture Fit evaluating collaboration and values alignment, anchored by a success principle to communicate decision-making rationale"}
 
 ::: {.notes}
 Interview processes vary, but often begin with a recruiter conversation and continue through practical and technical assessments. Later rounds may explore design, collaboration, and examples of past decisions. Ask about the process so you can prepare for the format you will actually encounter.
@@ -482,31 +309,7 @@ Interview processes vary, but often begin with a recruiter conversation and cont
 
 ## Common Questions {.smaller}
 
-:::: {.columns}
-::: {.column width='50%'}
-:::{.callout-important title="Why leave academia?"}
-
-**✅ Good:**
-"Apply research skills to real-world problems impacting users"
-
-**❌ Avoid:**
-Complaining about academic politics
-:::
-:::
-
-::: {.column width='50%'}
-:::{.callout-important title="Describe teamwork"}
-
-**Academic Examples:**
-
-- Multi-disciplinary projects
-- Conference organisation
-- Cross-institutional collaboration
-
-**Frame as:** Project management, stakeholder coordination
-:::
-:::
-::::
+![](media/common-questions.webp){fig-alt="Editorial infographic detailing strategic approaches to two common transition interview questions: Question 1 on leaving academia recommending focusing on user impact and avoiding grievances about politics, and Question 2 on teamwork reframing multi-disciplinary projects and conference organisation into cross-functional stakeholder management, supported by the STAR behavioural response method"}
 
 ::: {.notes}
 Behavioural questions often ask about conflict, deadlines, priorities, or communication. A clear structure is situation, task, action, and result. Explain your own contribution and what you learned, rather than describing only what the wider team did.
@@ -520,36 +323,9 @@ Behavioural questions often ask about conflict, deadlines, priorities, or commun
 Allow time for reflection, preparation, applications, and the eventual move. The six-to-twelve-month range on this slide is a planning illustration, not a deadline for success. Use feedback from interviews to refine your examples and identify what needs more preparation.
 :::
 
-## Managing Transition
+## Managing Transition {.smaller}
 
-:::: {.columns}
-::: {.column width='33%'}
-:::{.callout-note title="💰 Financial" icon=false}
-
-- 6-12 months expenses
-- Consider consulting
-- Negotiate start dates
-:::
-:::
-
-::: {.column width='33%'}
-:::{.callout-note title="🧠 Emotional" icon=false}
-
-- Identity shift takes time
-- Imposter syndrome normal
-- Build support networks
-:::
-:::
-
-::: {.column width='33%'}
-:::{.callout-note title="📚 Skills" icon=false}
-
-- Industry tools
-- Business courses
-- Professional certifications
-:::
-:::
-::::
+![](media/managing-transition.webp){fig-alt="Three-pillar infographic for managing a career pivot: Financial Runway covering expense buffers and consulting, Emotional Resilience addressing identity shifts and peer support networks, and Skill Bridging focusing on industry toolchains and professional certifications, anchored by a core principle balancing financial security, emotional endurance, and proactive skill translation"}
 
 ::: {.notes}
 A career change can affect identity as well as daily work. Mixed feelings do not mean the decision is wrong. Recognising progress and talking with others who have made a similar move can make the transition less isolating.
@@ -557,31 +333,7 @@ A career change can affect identity as well as daily work. Mixed feelings do not
 
 ## What You'll Enjoy vs. Miss {.smaller}
 
-:::: {.columns}
-::: {.column width='50%'}
-:::{style="background-color: #E8F5E8; padding: 15px; border-radius: 10px;"}
-**What You'll Enjoy**
-
-- Immediate impact
-- Clear objectives  
-- Collaborative teams
-- Better resources
-- Career progression
-:::
-:::
-
-::: {.column width='50%'}
-:::{style="background-color: #FFE4E1; padding: 15px; border-radius: 10px;"}
-**What You Might Miss**
-
-- Deep exploration
-- Academic freedom
-- Knowledge creation
-- Publication prestige
-- Conference travel
-:::
-:::
-::::
+![](media/what-youll-enjoy-vs-miss.webp){fig-alt="Comparative editorial infographic balancing positive shifts and rewards in industry such as immediate product impact, clear objectives, collaborative teams, and better resources against trade-offs to anticipate including reduced blue-sky exploration, commercial priorities, tighter deadlines, and proprietary code, concluding with an insight on aligning personal values with industry rhythms"}
 
 ::: {.notes}
 A different setting brings trade-offs. Compensation, schedules, and shared responsibility may improve, while the degree of research autonomy and the pace of projects may change. Consider those differences in the context of the particular team and role.
@@ -605,7 +357,7 @@ Do not assume that the absence of an industry title makes all of your experience
 
 :::: {.columns}
 ::: {.column width='50%'}
-:::{.callout-tip title="📊 Research Tools" icon=false}
+:::{.callout-tip title="Research Tools" icon=false}
 
 **Salary Data Sources:**
 
@@ -623,12 +375,12 @@ Do not assume that the absence of an industry title makes all of your experience
 :::
 
 ::: {.column width='50%'}
-:::{.callout-important title="🎯 Negotiation Strategy" icon=false}
+:::{.callout-important title="Negotiation Strategy" icon=false}
 
 **Academic → Industry Reality:**
 
 - Industry can pay 2-3x academic salaries
-- Total compensation matters
+- Benchmark against overall market compensation
 - Room for negotiation exists
 
 **Timing:**
@@ -652,7 +404,7 @@ Before discussing an offer, understand the role's compensation range and the com
 
 :::: {.columns}
 ::: {.column width='50%'}
-:::{.callout-caution title="❌ Harmful Assumptions" icon=false}
+:::{.callout-caution title="Harmful Assumptions" icon=false}
 
 **"Industry is less intellectual"**
 
@@ -669,7 +421,7 @@ Before discussing an offer, understand the role's compensation range and the com
 :::
 
 ::: {.column width='50%'}
-:::{.callout-tip title="✅ Reality Check" icon=false}
+:::{.callout-tip title="Reality Check" icon=false}
 
 **Industry offers:**
 
@@ -688,7 +440,7 @@ Before discussing an offer, understand the role's compensation range and the com
 ::::
 
 :::{style="background-color: #E6F3FF; padding: 15px; border-radius: 15px; text-align: center; margin-top: 15px;"}
-**💡 Reframe**: Industry work offers different but equally intellectually stimulating challenges
+**Guidance**: Assess teams by their day-to-day technical depth rather than preconceived sector biases
 :::
 
 ::: {.notes}
@@ -699,7 +451,7 @@ Industry roles differ widely in their intellectual demands and working cultures.
 
 :::: {.columns}
 ::: {.column width='50%'}
-:::{.callout-caution title="❌ Shotgun Approach" icon=false}
+:::{.callout-caution title="Shotgun Approach" icon=false}
 
 **What it looks like:**
 
@@ -717,7 +469,7 @@ Industry roles differ widely in their intellectual demands and working cultures.
 :::
 
 ::: {.column width='50%'}
-:::{.callout-tip title="✅ Strategic Targeting" icon=false}
+:::{.callout-tip title="Strategic Targeting" icon=false}
 
 **Better approach:**
 
@@ -736,7 +488,7 @@ Industry roles differ widely in their intellectual demands and working cultures.
 ::::
 
 :::{style="background-color: #E8F5E8; padding: 15px; border-radius: 15px; text-align: center; margin-top: 15px;"}
-**💡 Rule of thumb**: Spend 2-3 hours researching and customizing each application rather than sending 20 generic ones
+**Target pace**: Submit 3–5 tailored applications weekly alongside active networking conversations
 :::
 
 ::: {.notes}
@@ -772,27 +524,27 @@ Translate your skills into outcomes another team can understand. Build relations
 ## Questions & Discussion
 
 :::{style="text-align: center; font-size: 1.2em; background-color: #F0F8FF; padding: 15px; border-radius: 20px;"}
-**What questions do you have?**
+**Open floor: Reflections on making the transition**
 :::
 
 :::: {.columns}
 ::: {.column width='33%'}
 :::{style="background-color: #FFE4E1; padding: 15px; border-radius: 15px; text-align: center;"}
-🤔 **Challenges**  
+**Challenges**<br>
 What obstacles do you face?
 :::
 :::
 
 ::: {.column width='33%'}
 :::{style="background-color: #E8F5E8; padding: 15px; border-radius: 15px; text-align: center;"}
-💡 **Insights**  
+**Insights**<br>
 What resonates most?
 :::
 :::
 
 ::: {.column width='33%'}
 :::{style="background-color: #FFF8DC; padding: 15px; border-radius: 15px; text-align: center;"}
-🤝 **Support**  
+**Support**<br>
 How can we help each other?
 :::
 :::
@@ -804,7 +556,7 @@ Questions and discussion are welcome. It can be helpful to compare experiences w
 
 # Thank You {data-section-marker="→"}
 
-Good luck! 😊
+Good luck!
 
 <br>
 <br>
