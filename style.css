@@ -70,12 +70,21 @@ body,
 
 .reveal {
   background:
-    radial-gradient(circle at 87% 13%, rgba(238, 93, 63, 0.12), transparent 22%),
+    radial-gradient(
+      circle at 87% 13%,
+      rgba(238, 93, 63, 0.12),
+      transparent 22%
+    ),
     radial-gradient(circle at 9% 88%, rgba(8, 127, 120, 0.11), transparent 24%),
     linear-gradient(rgba(16, 42, 67, 0.045) 1px, transparent 1px),
     linear-gradient(90deg, rgba(16, 42, 67, 0.045) 1px, transparent 1px),
     var(--field-paper);
-  background-size: auto, auto, 30px 30px, 30px 30px, auto;
+  background-size:
+    auto,
+    auto,
+    30px 30px,
+    30px 30px,
+    auto;
   color: var(--field-ink);
   font-family: var(--r-main-font);
   font-size: 34px;
@@ -128,7 +137,12 @@ body,
   left: 0;
   height: 5px;
   border-radius: 999px;
-  background: linear-gradient(90deg, var(--field-coral) 0 46%, var(--field-gold) 46% 70%, var(--field-teal) 70% 100%);
+  background: linear-gradient(
+    90deg,
+    var(--field-coral) 0 46%,
+    var(--field-gold) 46% 70%,
+    var(--field-teal) 70% 100%
+  );
   content: "";
 }
 
@@ -239,7 +253,9 @@ body,
   height: 11px;
   border-radius: 999px;
   background: var(--field-coral);
-  box-shadow: 32px 0 0 var(--field-gold), 64px 0 0 var(--field-teal);
+  box-shadow:
+    32px 0 0 var(--field-gold),
+    64px 0 0 var(--field-teal);
   content: "";
 }
 
@@ -327,11 +343,20 @@ body,
   padding: 70px 86px !important;
   overflow: hidden;
   background:
-    linear-gradient(115deg, transparent 0 67%, rgba(238, 93, 63, 0.98) 67% 79%, transparent 79%),
+    linear-gradient(
+      115deg,
+      transparent 0 67%,
+      rgba(238, 93, 63, 0.98) 67% 79%,
+      transparent 79%
+    ),
     linear-gradient(rgba(255, 255, 255, 0.055) 1px, transparent 1px),
     linear-gradient(90deg, rgba(255, 255, 255, 0.055) 1px, transparent 1px),
     var(--field-ink);
-  background-size: auto, 34px 34px, 34px 34px, auto;
+  background-size:
+    auto,
+    34px 34px,
+    34px 34px,
+    auto;
 }
 
 .reveal .slides section.title-slide.level1::after {
@@ -630,7 +655,11 @@ body,
 .reveal .slides div[style*="#F0FFF0" i] {
   border: 1px solid var(--field-border) !important;
   border-radius: 11px !important;
-  background: linear-gradient(180deg, var(--field-teal-soft), var(--field-card)) !important;
+  background: linear-gradient(
+    180deg,
+    var(--field-teal-soft),
+    var(--field-card)
+  ) !important;
   box-shadow: 6px 6px 0 rgba(8, 127, 120, 0.1);
 }
 
@@ -639,7 +668,11 @@ body,
 .reveal .slides div[style*="#E6F3FF" i] {
   border: 1px solid var(--field-border) !important;
   border-radius: 11px !important;
-  background: linear-gradient(180deg, var(--field-blue-soft), var(--field-card)) !important;
+  background: linear-gradient(
+    180deg,
+    var(--field-blue-soft),
+    var(--field-card)
+  ) !important;
   box-shadow: 6px 6px 0 rgba(49, 87, 200, 0.09);
 }
 
@@ -647,7 +680,11 @@ body,
 .reveal .slides div[style*="#FFF0F5" i] {
   border: 1px solid var(--field-border) !important;
   border-radius: 11px !important;
-  background: linear-gradient(180deg, var(--field-red-soft), var(--field-card)) !important;
+  background: linear-gradient(
+    180deg,
+    var(--field-red-soft),
+    var(--field-card)
+  ) !important;
   box-shadow: 6px 6px 0 rgba(198, 60, 75, 0.09);
 }
 
@@ -656,7 +693,11 @@ body,
 .reveal .slides div[style*="#FFE4B5" i] {
   border: 1px solid var(--field-border) !important;
   border-radius: 11px !important;
-  background: linear-gradient(180deg, var(--field-gold-soft), var(--field-card)) !important;
+  background: linear-gradient(
+    180deg,
+    var(--field-gold-soft),
+    var(--field-card)
+  ) !important;
   box-shadow: 6px 6px 0 rgba(226, 167, 46, 0.11);
 }
 
@@ -766,12 +807,25 @@ body,
   align-content: center;
   justify-items: center;
   background:
-    radial-gradient(circle at 86% 18%, rgba(238, 93, 63, 0.28), transparent 26%),
-    radial-gradient(circle at 13% 82%, rgba(8, 127, 120, 0.24), transparent 24%),
+    radial-gradient(
+      circle at 86% 18%,
+      rgba(238, 93, 63, 0.28),
+      transparent 26%
+    ),
+    radial-gradient(
+      circle at 13% 82%,
+      rgba(8, 127, 120, 0.24),
+      transparent 24%
+    ),
     linear-gradient(rgba(255, 255, 255, 0.055) 1px, transparent 1px),
     linear-gradient(90deg, rgba(255, 255, 255, 0.055) 1px, transparent 1px),
     var(--field-ink);
-  background-size: auto, auto, 34px 34px, 34px 34px, auto;
+  background-size:
+    auto,
+    auto,
+    34px 34px,
+    34px 34px,
+    auto;
   text-align: center;
 }
 
@@ -867,7 +921,12 @@ body,
 }
 
 .reveal .progress span {
-  background: linear-gradient(90deg, var(--field-coral), var(--field-gold), var(--field-teal));
+  background: linear-gradient(
+    90deg,
+    var(--field-coral),
+    var(--field-gold),
+    var(--field-teal)
+  );
 }
 
 .deck-icon-link {
@@ -880,7 +939,10 @@ body,
   background: var(--field-card);
   box-shadow: 4px 4px 0 var(--field-shadow);
   color: var(--field-ink) !important;
-  transition: transform 160ms ease, box-shadow 160ms ease, color 160ms ease;
+  transition:
+    transform 160ms ease,
+    box-shadow 160ms ease,
+    color 160ms ease;
 }
 
 .deck-icon-link:hover,
